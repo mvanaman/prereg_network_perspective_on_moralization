@@ -1,0 +1,1301 @@
+education,gender,age,race,gen_label,race_label,edu_label,id,issue,Anger,AuthInd,BlackWhite,Disgust,Fluency,Suffer,Upset,Wrong,Policy
+3,2,27,3,Female,Black or African-American,High School/GED,1,Smoking,2,5,5,5,3,5,4,4,1
+3,2,27,3,Female,Black or African-American,High School/GED,1,Guns,2,3,3,5,3,4,5,4,4
+2,2,53,3,Female,Black or African-American,Some High School,2,Smoking,2,5,6,4,3,5,5,2,2
+2,2,53,3,Female,Black or African-American,Some High School,2,Guns,2,3,3,4,1,5,5,5,4
+1,2,24,1,Female,White,Less than High School,3,Smoking,2,4,5,3,3,4,4,2,3
+1,2,24,1,Female,White,Less than High School,3,Guns,2,5,2,4,3,4,4,5,3
+3,2,17,3,Female,Black or African-American,High School/GED,4,Smoking,2,2,5,4,4,2,2,3,2
+3,2,17,3,Female,Black or African-American,High School/GED,4,Guns,2,4,3,1,2,5,5,5,5
+1,2,40,3,Female,Black or African-American,Less than High School,5,Smoking,2,5,5,2,1,4,5,4,2
+1,2,40,3,Female,Black or African-American,Less than High School,5,Guns,1,5,4,5,3,5,5,6,6
+4,2,33,1,Female,White,Some College,6,Smoking,3,3,4,4,4,4,4,2,2
+4,2,33,1,Female,White,Some College,6,Guns,2,5,3,3,3,6,4,5,3
+3,2,55,1,Female,White,High School/GED,7,Smoking,4,5,5,5,4,6,3,3,5
+3,2,55,1,Female,White,High School/GED,7,Guns,5,3,3,2,3,5,2,5,4
+5,2,29,1,Female,White,2-Year Degree (Associate's),8,Smoking,2,2,5,3,3,3,3,1,3
+5,2,29,1,Female,White,2-Year Degree (Associate's),8,Guns,1,4,6,3,5,2,4,2,4
+3,2,48,2,Female,Hispanic,High School/GED,9,Smoking,5,3,4,5,6,4,2,1,5
+3,2,48,2,Female,Hispanic,High School/GED,9,Guns,3,3,1,2,3,5,5,1,2
+3,2,25,1,Female,White,High School/GED,10,Smoking,1,6,6,6,1,6,6,1,1
+3,2,25,1,Female,White,High School/GED,10,Guns,1,6,1,6,6,6,6,4,6
+5,2,41,4,Female,Asian,2-Year Degree (Associate's),11,Smoking,1,1,5,6,6,4,1,2,1
+5,2,41,4,Female,Asian,2-Year Degree (Associate's),11,Guns,2,3,4,3,4,6,4,3,4
+2,2,20,6,Female,Pacific Islander,Some High School,12,Smoking,4,4,2,3,5,1,2,6,1
+2,2,20,6,Female,Pacific Islander,Some High School,12,Guns,2,3,5,5,6,3,1,1,6
+3,2,53,1,Female,White,High School/GED,13,Smoking,2,1,6,6,6,5,1,1,2
+3,2,53,1,Female,White,High School/GED,13,Guns,1,6,1,4,1,5,4,4,4
+3,1,20,1,Male,White,High School/GED,14,Smoking,3,3,4,5,5,5,4,2,3
+3,1,20,1,Male,White,High School/GED,14,Guns,4,2,3,2,4,5,3,3,3
+NA,2,12,1,Female,White,NA,15,Smoking,3,3,5,4,5,4,3,3,2
+NA,2,12,1,Female,White,NA,15,Guns,4,4,3,4,2,4,4,5,3
+5,2,56,2,Female,Hispanic,2-Year Degree (Associate's),16,Smoking,3,1,5,4,4,4,1,5,4
+5,2,56,2,Female,Hispanic,2-Year Degree (Associate's),16,Guns,1,5,4,3,1,3,5,5,4
+2,2,21,1,Female,White,Some High School,17,Smoking,4,3,4,5,4,4,4,3,4
+2,2,21,1,Female,White,Some High School,17,Guns,3,5,4,3,4,5,4,5,5
+NA,1,17,4,Male,Asian,NA,18,Smoking,4,3,4,6,3,5,3,5,1
+NA,1,17,4,Male,Asian,NA,18,Guns,5,2,4,1,2,4,2,5,3
+3,2,20,1,Female,White,High School/GED,19,Smoking,2,2,5,5,3,3,4,4,3
+3,2,20,1,Female,White,High School/GED,19,Guns,2,5,5,2,4,4,5,4,6
+3,2,39,1,Female,White,High School/GED,20,Smoking,2,5,6,5,1,5,5,2,3
+3,2,39,1,Female,White,High School/GED,20,Guns,1,6,3,4,5,6,6,5,4
+3,2,20,4,Female,Asian,High School/GED,21,Smoking,3,6,4,2,2,4,6,3,2
+3,2,20,4,Female,Asian,High School/GED,21,Guns,5,2,4,6,6,4,2,3,2
+2,2,48,1,Female,White,Some High School,22,Smoking,1,2,6,6,1,6,4,1,1
+2,2,48,1,Female,White,Some High School,22,Guns,1,6,1,2,3,6,6,6,6
+3,2,39,1,Female,White,High School/GED,23,Smoking,2,2,5,3,3,4,2,3,2
+3,2,39,1,Female,White,High School/GED,23,Guns,2,4,2,4,3,2,5,4,4
+NA,2,17,7,Female,Specified Another Race or Ethnicity,NA,24,Smoking,1,3,4,5,5,4,6,2,1
+NA,2,17,7,Female,Specified Another Race or Ethnicity,NA,24,Guns,2,4,3,4,5,3,3,4,4
+2,1,45,1,Male,White,Some High School,25,Smoking,2,1,5,6,4,6,2,1,2
+2,1,45,1,Male,White,Some High School,25,Guns,2,6,4,4,4,5,5,5,5
+3,2,19,5,Female,Native American,High School/GED,26,Smoking,2,2,4,6,3,1,3,4,1
+3,2,19,5,Female,Native American,High School/GED,26,Guns,1,5,4,3,4,2,2,5,3
+5,1,57,1,Male,White,2-Year Degree (Associate's),27,Smoking,1,4,5,6,1,NA,2,4,1
+5,1,57,1,Male,White,2-Year Degree (Associate's),27,Guns,1,5,4,1,4,2,5,5,6
+3,2,27,4,Female,Asian,High School/GED,28,Smoking,4,NA,5,6,1,5,4,5,5
+3,2,27,4,Female,Asian,High School/GED,28,Guns,5,5,3,3,3,6,4,6,5
+4,2,28,3,Female,Black or African-American,Some College,29,Smoking,1,4,4,6,1,4,3,3,1
+4,2,28,3,Female,Black or African-American,Some College,29,Guns,3,3,4,4,4,4,3,1,6
+5,2,23,1,Female,White,2-Year Degree (Associate's),30,Smoking,5,3,5,4,3,2,4,3,3
+5,2,23,1,Female,White,2-Year Degree (Associate's),30,Guns,2,5,2,4,4,5,5,5,3
+3,2,19,1,Female,White,High School/GED,31,Smoking,2,3,5,4,5,2,4,5,2
+3,2,19,1,Female,White,High School/GED,31,Guns,3,3,6,5,5,3,4,3,5
+4,2,24,1,Female,White,Some College,32,Smoking,2,1,6,5,2,4,1,2,2
+4,2,24,1,Female,White,Some College,32,Guns,1,5,3,1,1,5,6,5,6
+3,2,35,1,Female,White,High School/GED,33,Smoking,1,5,6,1,1,4,4,5,1
+3,2,35,1,Female,White,High School/GED,33,Guns,1,4,3,1,4,4,5,4,2
+3,2,31,1,Female,White,High School/GED,34,Smoking,1,1,5,6,2,5,1,1,1
+3,2,31,1,Female,White,High School/GED,34,Guns,1,6,1,1,1,5,5,6,6
+3,1,21,2,Male,Hispanic,High School/GED,35,Smoking,2,2,5,5,3,4,4,1,1
+3,1,21,2,Male,Hispanic,High School/GED,35,Guns,4,5,2,4,3,6,4,4,4
+3,2,42,1,Female,White,High School/GED,36,Smoking,4,5,5,5,3,4,5,3,3
+3,2,42,1,Female,White,High School/GED,36,Guns,4,5,4,3,4,6,NA,5,5
+4,2,39,2,Female,Hispanic,Some College,37,Smoking,3,2,5,5,2,4,2,3,1
+4,2,39,2,Female,Hispanic,Some College,37,Guns,1,4,5,4,2,5,6,6,5
+3,1,21,3,Male,Black or African-American,High School/GED,38,Smoking,3,5,4,4,5,3,3,4,3
+3,1,21,3,Male,Black or African-American,High School/GED,38,Guns,3,4,5,3,3,4,5,3,5
+3,1,20,5,Male,Native American,High School/GED,39,Smoking,3,2,6,5,6,3,2,1,5
+3,1,20,5,Male,Native American,High School/GED,39,Guns,1,4,5,1,4,5,4,2,4
+3,2,50,1,Female,White,High School/GED,40,Smoking,2,1,6,6,4,6,1,3,4
+3,2,50,1,Female,White,High School/GED,40,Guns,1,6,4,1,1,1,6,5,5
+3,2,26,1,Female,White,High School/GED,41,Smoking,2,1,4,4,6,5,2,1,3
+3,2,26,1,Female,White,High School/GED,41,Guns,3,5,1,2,2,5,5,4,3
+4,2,34,8,Female,Specified Another Race or Ethnicity,Some College,42,Smoking,2,3,6,5,2,6,2,2,5
+4,2,34,8,Female,Specified Another Race or Ethnicity,Some College,42,Guns,2,6,2,5,2,5,5,5,5
+NA,2,17,3,Female,Black or African-American,NA,43,Smoking,2,2,1,4,6,5,2,3,2
+NA,2,17,3,Female,Black or African-American,NA,43,Guns,6,1,4,3,1,5,1,1,2
+NA,1,12,1,Male,White,NA,44,Smoking,2,1,5,6,1,5,2,1,4
+NA,1,12,1,Male,White,NA,44,Guns,4,5,1,3,2,5,5,5,5
+NA,2,16,4,Female,Asian,NA,45,Smoking,2,2,2,6,3,3,2,2,1
+NA,2,16,4,Female,Asian,NA,45,Guns,4,2,2,1,2,5,1,4,5
+NA,1,14,4,Male,Asian,NA,46,Smoking,3,2,5,4,1,4,1,3,2
+NA,1,14,4,Male,Asian,NA,46,Guns,2,5,4,4,1,3,5,6,4
+3,2,17,2,Female,Hispanic,High School/GED,47,Smoking,NA,3,NA,NA,NA,NA,3,NA,3
+3,2,17,2,Female,Hispanic,High School/GED,47,Guns,3,3,3,NA,NA,3,NA,3,NA
+3,1,28,3,Male,Black or African-American,High School/GED,48,Smoking,5,2,4,3,6,5,3,4,1
+3,1,28,3,Male,Black or African-American,High School/GED,48,Guns,2,NA,4,2,4,5,4,5,2
+2,2,40,1,Female,White,Some High School,49,Smoking,1,6,6,6,1,5,4,1,1
+2,2,40,1,Female,White,Some High School,49,Guns,3,6,5,1,1,6,6,6,6
+5,2,56,3,Female,Black or African-American,2-Year Degree (Associate's),50,Smoking,1,4,5,5,1,5,4,4,2
+5,2,56,3,Female,Black or African-American,2-Year Degree (Associate's),50,Guns,1,5,4,1,4,5,5,6,6
+3,1,52,4,Male,Asian,High School/GED,51,Smoking,3,1,5,6,5,4,1,1,4
+3,1,52,4,Male,Asian,High School/GED,51,Guns,2,6,3,5,1,2,5,4,6
+5,2,29,2,Female,Hispanic,2-Year Degree (Associate's),52,Smoking,5,3,4,3,1,3,6,4,2
+5,2,29,2,Female,Hispanic,2-Year Degree (Associate's),52,Guns,2,5,4,6,4,2,5,6,2
+5,1,58,1,Male,White,2-Year Degree (Associate's),53,Smoking,2,4,6,3,4,5,3,1,2
+5,1,58,1,Male,White,2-Year Degree (Associate's),53,Guns,1,5,1,2,5,6,5,5,5
+5,1,20,3,Male,Black or African-American,2-Year Degree (Associate's),54,Smoking,5,2,6,6,5,4,3,2,3
+5,1,20,3,Male,Black or African-American,2-Year Degree (Associate's),54,Guns,2,5,5,1,5,4,5,5,5
+5,2,42,3,Female,Black or African-American,2-Year Degree (Associate's),55,Smoking,1,3,6,5,1,4,3,1,3
+5,2,42,3,Female,Black or African-American,2-Year Degree (Associate's),55,Guns,1,6,4,4,2,6,6,6,4
+3,2,21,1,Female,White,High School/GED,56,Smoking,1,5,6,5,4,6,6,1,1
+3,2,21,1,Female,White,High School/GED,56,Guns,1,6,4,4,2,6,3,4,5
+1,2,51,6,Female,Pacific Islander,Less than High School,57,Smoking,1,6,6,6,5,6,1,1,1
+1,2,51,6,Female,Pacific Islander,Less than High School,57,Guns,1,6,1,1,1,6,6,6,3
+3,2,20,1,Female,White,High School/GED,58,Smoking,2,4,5,6,2,6,3,3,2
+3,2,20,1,Female,White,High School/GED,58,Guns,2,6,2,3,2,4,6,6,5
+2,1,31,1,Male,White,Some High School,59,Smoking,4,1,6,5,4,2,1,1,5
+2,1,31,1,Male,White,Some High School,59,Guns,4,6,4,1,2,6,6,6,4
+3,2,33,1,Female,White,High School/GED,60,Smoking,2,3,6,5,4,5,3,2,1
+3,2,33,1,Female,White,High School/GED,60,Guns,1,5,1,2,4,5,5,5,5
+5,2,29,2,Female,Hispanic,2-Year Degree (Associate's),61,Smoking,1,5,5,5,1,4,4,2,2
+5,2,29,2,Female,Hispanic,2-Year Degree (Associate's),61,Guns,1,3,4,5,5,5,6,5,5
+3,2,48,1,Female,White,High School/GED,62,Smoking,3,2,5,4,4,5,3,3,3
+3,2,48,1,Female,White,High School/GED,62,Guns,2,4,2,3,3,5,5,4,4
+1,1,18,1,Male,White,Less than High School,63,Smoking,2,4,5,4,1,3,1,3,4
+1,1,18,1,Male,White,Less than High School,63,Guns,2,5,4,2,2,5,6,5,5
+3,1,23,3,Male,Black or African-American,High School/GED,64,Smoking,2,3,4,6,4,6,2,3,2
+3,1,23,3,Male,Black or African-American,High School/GED,64,Guns,1,6,3,1,1,4,4,6,5
+NA,2,15,1,Female,White,NA,65,Smoking,4,6,2,5,2,2,4,5,6
+NA,2,15,1,Female,White,NA,65,Guns,5,2,6,3,5,2,1,4,2
+3,1,30,2,Male,Hispanic,High School/GED,66,Smoking,2,1,4,4,4,3,2,4,1
+3,1,30,2,Male,Hispanic,High School/GED,66,Guns,2,5,4,1,2,3,4,5,3
+2,2,40,3,Female,Black or African-American,Some High School,67,Smoking,3,4,5,4,3,4,4,4,2
+2,2,40,3,Female,Black or African-American,Some High School,67,Guns,2,5,3,4,4,4,4,2,4
+3,1,38,2,Male,Hispanic,High School/GED,68,Smoking,5,5,4,4,2,5,NA,1,4
+3,1,38,2,Male,Hispanic,High School/GED,68,Guns,1,5,1,4,2,6,1,6,4
+3,2,31,3,Female,Black or African-American,High School/GED,69,Smoking,2,4,5,4,1,3,2,3,4
+3,2,31,3,Female,Black or African-American,High School/GED,69,Guns,2,6,4,2,3,5,6,6,5
+2,2,39,1,Female,White,Some High School,70,Smoking,3,3,6,4,1,4,3,3,5
+2,2,39,1,Female,White,Some High School,70,Guns,NA,NA,6,6,5,2,6,5,3
+2,1,18,1,Male,White,Some High School,71,Smoking,3,1,3,5,6,3,2,1,2
+2,1,18,1,Male,White,Some High School,71,Guns,2,2,1,2,2,3,4,2,3
+5,2,47,2,Female,Hispanic,2-Year Degree (Associate's),72,Smoking,1,2,5,6,1,6,2,1,1
+5,2,47,2,Female,Hispanic,2-Year Degree (Associate's),72,Guns,1,5,1,4,1,6,4,6,6
+3,1,20,4,Male,Asian,High School/GED,73,Smoking,4,2,5,4,4,5,2,2,2
+3,1,20,4,Male,Asian,High School/GED,73,Guns,3,5,2,2,2,6,5,6,1
+4,1,32,2,Male,Hispanic,Some College,74,Smoking,1,4,4,6,1,4,5,1,3
+4,1,32,2,Male,Hispanic,Some College,74,Guns,4,3,4,2,3,5,4,4,4
+4,2,34,3,Female,Black or African-American,Some College,75,Smoking,1,4,3,6,3,4,3,2,1
+4,2,34,3,Female,Black or African-American,Some College,75,Guns,2,4,2,1,2,6,4,3,6
+4,1,21,2,Male,Hispanic,Some College,76,Smoking,2,4,3,4,5,5,3,1,4
+4,1,21,2,Male,Hispanic,Some College,76,Guns,4,4,3,2,4,4,5,5,5
+3,1,23,1,Male,White,High School/GED,77,Smoking,3,5,5,5,3,5,4,5,1
+3,1,23,1,Male,White,High School/GED,77,Guns,4,4,6,1,3,4,4,3,4
+3,2,19,1,Female,White,High School/GED,78,Smoking,3,3,5,5,2,5,5,3,4
+3,2,19,1,Female,White,High School/GED,78,Guns,5,4,2,3,2,5,5,5,4
+NA,1,52,3,Male,Black or African-American,NA,79,Smoking,6,4,5,5,NA,2,4,1,1
+NA,1,52,3,Male,Black or African-American,NA,79,Guns,2,4,4,1,2,1,4,4,6
+4,1,22,1,Male,White,Some College,80,Smoking,3,4,4,5,6,2,5,4,4
+4,1,22,1,Male,White,Some College,80,Guns,4,5,4,1,4,2,5,6,3
+4,2,31,1,Female,White,Some College,81,Smoking,3,5,4,4,3,3,4,3,3
+4,2,31,1,Female,White,Some College,81,Guns,2,4,4,4,3,4,4,5,3
+3,2,23,3,Female,Black or African-American,High School/GED,82,Smoking,4,2,4,3,3,3,1,3,2
+3,2,23,3,Female,Black or African-American,High School/GED,82,Guns,3,4,5,2,3,3,3,4,4
+4,2,28,3,Female,Black or African-American,Some College,83,Smoking,2,4,5,4,2,5,1,3,2
+4,2,28,3,Female,Black or African-American,Some College,83,Guns,2,5,4,2,2,3,5,5,4
+5,1,21,3,Male,Black or African-American,2-Year Degree (Associate's),84,Smoking,1,1,6,5,5,6,1,1,1
+5,1,21,3,Male,Black or African-American,2-Year Degree (Associate's),84,Guns,2,5,1,1,6,6,5,6,5
+3,2,46,3,Female,Black or African-American,High School/GED,85,Smoking,4,3,6,6,6,3,NA,1,3
+3,2,46,3,Female,Black or African-American,High School/GED,85,Guns,1,4,1,3,5,4,5,3,3
+2,2,19,3,Female,Black or African-American,Some High School,86,Smoking,2,1,2,5,3,6,4,1,1
+2,2,19,3,Female,Black or African-American,Some High School,86,Guns,6,6,1,6,2,5,5,6,6
+3,2,37,1,Female,White,High School/GED,87,Smoking,1,5,6,4,6,6,2,5,2
+3,2,37,1,Female,White,High School/GED,87,Guns,1,6,2,4,3,3,6,6,6
+NA,2,17,1,Female,White,NA,88,Smoking,3,4,6,5,1,4,4,4,1
+NA,2,17,1,Female,White,NA,88,Guns,4,5,4,5,4,4,6,5,5
+3,1,56,1,Male,White,High School/GED,89,Smoking,2,1,5,5,2,6,1,2,2
+3,1,56,1,Male,White,High School/GED,89,Guns,2,5,2,2,2,5,5,5,2
+3,1,26,2,Male,Hispanic,High School/GED,90,Smoking,4,2,5,5,4,5,2,2,3
+3,1,26,2,Male,Hispanic,High School/GED,90,Guns,2,5,2,3,2,5,5,5,4
+NA,2,19,1,Female,White,NA,91,Smoking,1,6,4,6,4,3,6,6,3
+NA,2,19,1,Female,White,NA,91,Guns,5,1,6,6,6,4,2,2,1
+3,2,24,3,Female,Black or African-American,High School/GED,92,Smoking,3,1,5,5,2,5,1,1,1
+3,2,24,3,Female,Black or African-American,High School/GED,92,Guns,4,5,1,1,1,4,4,6,6
+5,2,24,1,Female,White,2-Year Degree (Associate's),93,Smoking,1,2,6,5,2,5,2,3,2
+5,2,24,1,Female,White,2-Year Degree (Associate's),93,Guns,2,6,4,3,2,5,6,5,5
+3,2,40,1,Female,White,High School/GED,94,Smoking,2,4,6,5,1,5,5,2,3
+3,2,40,1,Female,White,High School/GED,94,Guns,1,5,6,6,2,6,6,5,2
+NA,1,17,3,Male,Black or African-American,NA,95,Smoking,NA,4,NA,NA,NA,NA,6,NA,4
+NA,1,17,3,Male,Black or African-American,NA,95,Guns,6,4,4,NA,NA,6,NA,6,NA
+3,2,21,1,Female,White,High School/GED,96,Smoking,1,4,5,6,4,6,5,1,1
+3,2,21,1,Female,White,High School/GED,96,Guns,4,4,1,4,5,6,5,6,5
+3,2,40,1,Female,White,High School/GED,97,Smoking,2,3,6,4,3,5,2,1,4
+3,2,40,1,Female,White,High School/GED,97,Guns,3,5,1,4,3,3,5,4,4
+5,1,27,3,Male,Black or African-American,2-Year Degree (Associate's),98,Smoking,6,3,3,5,5,5,3,2,1
+5,1,27,3,Male,Black or African-American,2-Year Degree (Associate's),98,Guns,4,3,3,4,4,6,3,2,5
+4,2,41,5,Female,Native American,Some College,99,Smoking,2,3,5,4,2,3,5,2,2
+4,2,41,5,Female,Native American,Some College,99,Guns,1,5,2,4,2,5,1,5,4
+5,2,27,2,Female,Hispanic,2-Year Degree (Associate's),100,Smoking,1,2,6,5,NA,4,2,4,4
+5,2,27,2,Female,Hispanic,2-Year Degree (Associate's),100,Guns,1,4,3,4,1,5,5,3,5
+3,1,25,3,Male,Black or African-American,High School/GED,101,Smoking,2,2,4,4,1,2,1,3,3
+3,1,25,3,Male,Black or African-American,High School/GED,101,Guns,3,5,4,1,1,3,4,6,4
+5,2,27,1,Female,White,2-Year Degree (Associate's),102,Smoking,2,2,5,5,2,5,2,1,1
+5,2,27,1,Female,White,2-Year Degree (Associate's),102,Guns,1,6,2,1,2,6,6,5,6
+3,2,24,3,Female,Black or African-American,High School/GED,103,Smoking,2,6,6,3,2,1,6,4,1
+3,2,24,3,Female,Black or African-American,High School/GED,103,Guns,1,4,2,3,3,4,6,4,4
+3,1,17,5,Male,Native American,High School/GED,104,Smoking,3,1,5,6,3,4,4,5,6
+3,1,17,5,Male,Native American,High School/GED,104,Guns,6,6,2,1,3,3,5,5,6
+5,1,28,3,Male,Black or African-American,2-Year Degree (Associate's),105,Smoking,5,4,5,5,5,4,3,5,5
+5,1,28,3,Male,Black or African-American,2-Year Degree (Associate's),105,Guns,5,5,5,2,4,5,4,5,4
+1,2,34,1,Female,White,Less than High School,106,Smoking,1,3,6,4,2,4,3,1,1
+1,2,34,1,Female,White,Less than High School,106,Guns,1,5,2,4,3,6,6,5,6
+3,2,26,1,Female,White,High School/GED,107,Smoking,2,5,4,3,2,5,5,3,5
+3,2,26,1,Female,White,High School/GED,107,Guns,2,3,4,3,2,3,4,4,3
+1,2,30,1,Female,White,Less than High School,108,Smoking,6,5,6,3,2,6,2,3,4
+1,2,30,1,Female,White,Less than High School,108,Guns,2,4,1,6,3,4,4,5,3
+2,2,19,1,Female,White,Some High School,109,Smoking,2,1,2,5,3,6,1,1,1
+2,2,19,1,Female,White,Some High School,109,Guns,6,6,1,6,2,5,5,6,6
+3,1,23,1,Male,White,High School/GED,110,Smoking,4,4,3,4,5,5,3,2,5
+3,1,23,1,Male,White,High School/GED,110,Guns,3,5,1,4,2,4,4,5,4
+3,2,21,4,Female,Asian,High School/GED,111,Smoking,4,2,2,5,4,3,2,3,1
+3,2,21,4,Female,Asian,High School/GED,111,Guns,1,5,2,4,4,4,5,5,2
+1,2,17,1,Female,White,Less than High School,112,Smoking,1,5,3,6,3,6,4,1,2
+1,2,17,1,Female,White,Less than High School,112,Guns,4,4,2,2,4,6,2,4,6
+NA,2,18,3,Female,Black or African-American,NA,113,Smoking,4,4,4,4,5,4,4,5,4
+NA,2,18,3,Female,Black or African-American,NA,113,Guns,2,5,6,3,5,3,5,5,3
+4,1,37,1,Male,White,Some College,114,Smoking,1,2,3,6,6,2,4,2,1
+4,1,37,1,Male,White,Some College,114,Guns,4,3,2,1,2,3,1,1,6
+2,1,23,4,Male,Asian,Some High School,115,Smoking,4,6,5,4,3,4,6,5,5
+2,1,23,4,Male,Asian,Some High School,115,Guns,2,4,5,6,6,5,4,5,5
+NA,2,16,5,Female,Native American,NA,116,Smoking,3,5,5,3,1,1,4,3,1
+NA,2,16,5,Female,Native American,NA,116,Guns,5,4,2,4,6,6,6,5,4
+1,2,21,4,Female,Asian,Less than High School,117,Smoking,3,4,5,5,1,4,1,2,6
+1,2,21,4,Female,Asian,Less than High School,117,Guns,1,5,1,1,1,2,6,6,4
+2,2,25,2,Female,Hispanic,Some High School,118,Smoking,5,1,5,5,2,5,2,2,3
+2,2,25,2,Female,Hispanic,Some High School,118,Guns,1,1,2,3,3,3,6,6,4
+3,2,27,7,Female,Specified Another Race or Ethnicity,High School/GED,119,Smoking,1,3,6,5,3,3,1,1,2
+3,2,27,7,Female,Specified Another Race or Ethnicity,High School/GED,119,Guns,1,5,4,4,2,2,6,6,5
+5,2,33,1,Female,White,2-Year Degree (Associate's),120,Smoking,2,2,5,5,1,6,2,4,1
+5,2,33,1,Female,White,2-Year Degree (Associate's),120,Guns,1,5,2,4,2,5,5,6,6
+4,1,24,2,Male,Hispanic,Some College,121,Smoking,3,1,5,5,5,5,1,2,2
+4,1,24,2,Male,Hispanic,Some College,121,Guns,3,5,4,2,1,5,5,5,4
+3,2,21,3,Female,Black or African-American,High School/GED,122,Smoking,3,2,5,4,3,4,1,2,3
+3,2,21,3,Female,Black or African-American,High School/GED,122,Guns,2,4,3,1,2,4,5,4,4
+3,2,32,2,Female,Hispanic,High School/GED,123,Smoking,3,4,5,4,1,4,4,3,4
+3,2,32,2,Female,Hispanic,High School/GED,123,Guns,1,4,4,6,5,4,4,6,6
+NA,2,12,1,Female,White,NA,124,Smoking,1,3,3,4,3,5,4,3,4
+NA,2,12,1,Female,White,NA,124,Guns,4,6,3,3,1,6,6,6,5
+3,2,41,4,Female,Asian,High School/GED,125,Smoking,1,1,6,6,5,5,2,3,2
+3,2,41,4,Female,Asian,High School/GED,125,Guns,1,6,1,2,4,6,6,4,4
+4,2,26,1,Female,White,Some College,126,Smoking,1,5,5,4,6,6,5,1,1
+4,2,26,1,Female,White,Some College,126,Guns,1,3,4,2,NA,6,3,1,6
+3,1,25,1,Male,White,High School/GED,127,Smoking,4,6,6,4,5,5,4,5,4
+3,1,25,1,Male,White,High School/GED,127,Guns,3,5,4,6,5,3,5,4,3
+3,2,40,4,Female,Asian,High School/GED,128,Smoking,2,2,5,4,4,4,3,3,3
+3,2,40,4,Female,Asian,High School/GED,128,Guns,1,5,4,3,3,4,5,4,2
+3,2,28,1,Female,White,High School/GED,129,Smoking,5,6,4,2,2,2,4,2,3
+3,2,28,1,Female,White,High School/GED,129,Guns,2,4,6,4,4,2,2,3,1
+4,2,33,1,Female,White,Some College,130,Smoking,2,3,5,4,2,5,2,2,5
+4,2,33,1,Female,White,Some College,130,Guns,3,NA,2,6,2,5,5,6,5
+2,1,56,2,Male,Hispanic,Some High School,131,Smoking,5,4,6,6,5,6,5,2,5
+2,1,56,2,Male,Hispanic,Some High School,131,Guns,1,5,1,2,4,5,5,1,3
+4,2,33,3,Female,Black or African-American,Some College,132,Smoking,3,4,5,2,1,5,4,2,3
+4,2,33,3,Female,Black or African-American,Some College,132,Guns,1,4,5,5,6,4,6,5,4
+3,2,32,1,Female,White,High School/GED,133,Smoking,1,5,6,6,1,5,4,1,1
+3,2,32,1,Female,White,High School/GED,133,Guns,1,5,2,4,2,6,6,5,5
+2,1,51,2,Male,Hispanic,Some High School,134,Smoking,1,5,5,5,6,4,2,4,5
+2,1,51,2,Male,Hispanic,Some High School,134,Guns,5,5,4,1,4,6,5,3,4
+3,2,23,1,Female,White,High School/GED,135,Smoking,2,4,5,5,5,5,2,2,2
+3,2,23,1,Female,White,High School/GED,135,Guns,4,4,2,2,6,6,5,4,4
+NA,2,17,2,Female,Hispanic,NA,136,Smoking,3,3,6,5,3,5,2,2,5
+NA,2,17,2,Female,Hispanic,NA,136,Guns,1,6,4,1,1,5,5,6,3
+5,2,38,3,Female,Black or African-American,2-Year Degree (Associate's),137,Smoking,1,5,6,6,5,6,4,2,1
+5,2,38,3,Female,Black or African-American,2-Year Degree (Associate's),137,Guns,1,6,5,2,2,6,6,6,5
+3,1,27,3,Male,Black or African-American,High School/GED,138,Smoking,4,4,5,6,2,5,2,1,2
+3,1,27,3,Male,Black or African-American,High School/GED,138,Guns,4,5,2,1,2,4,5,6,5
+4,2,35,1,Female,White,Some College,139,Smoking,1,2,6,6,6,3,2,3,1
+4,2,35,1,Female,White,Some College,139,Guns,1,6,4,3,2,4,5,5,5
+3,2,21,1,Female,White,High School/GED,140,Smoking,3,4,5,4,2,4,5,4,1
+3,2,21,1,Female,White,High School/GED,140,Guns,2,4,4,3,4,4,5,4,5
+3,1,20,1,Male,White,High School/GED,141,Smoking,4,4,5,6,4,2,4,6,6
+3,1,20,1,Male,White,High School/GED,141,Guns,5,5,6,4,5,6,5,3,6
+2,2,24,1,Female,White,Some High School,142,Smoking,4,2,6,4,1,6,1,1,5
+2,2,24,1,Female,White,Some High School,142,Guns,3,5,2,4,NA,5,5,6,6
+4,2,31,1,Female,White,Some College,143,Smoking,2,2,4,6,2,2,1,2,2
+4,2,31,1,Female,White,Some College,143,Guns,2,5,2,4,3,5,5,3,5
+NA,1,16,3,Male,Black or African-American,NA,144,Smoking,5,1,5,4,4,4,1,3,4
+NA,1,16,3,Male,Black or African-American,NA,144,Guns,2,5,4,2,2,5,5,4,4
+3,2,23,3,Female,Black or African-American,High School/GED,145,Smoking,1,6,6,5,1,1,6,3,4
+3,2,23,3,Female,Black or African-American,High School/GED,145,Guns,4,6,2,1,2,4,6,6,3
+NA,2,61,1,Female,White,NA,146,Smoking,1,5,6,4,4,6,2,1,5
+NA,2,61,1,Female,White,NA,146,Guns,1,4,5,4,5,1,5,1,5
+3,1,51,2,Male,Hispanic,High School/GED,147,Smoking,4,4,5,4,1,5,5,5,6
+3,1,51,2,Male,Hispanic,High School/GED,147,Guns,4,5,6,4,3,4,5,6,3
+1,2,45,2,Female,Hispanic,Less than High School,148,Smoking,4,5,5,5,2,5,4,3,3
+1,2,45,2,Female,Hispanic,Less than High School,148,Guns,3,4,3,6,5,5,4,5,2
+3,2,39,1,Female,White,High School/GED,149,Smoking,6,2,5,4,3,3,4,3,2
+3,2,39,1,Female,White,High School/GED,149,Guns,1,5,4,2,4,6,4,3,4
+5,1,50,3,Male,Black or African-American,2-Year Degree (Associate's),150,Smoking,2,4,3,6,5,2,5,4,2
+5,1,50,3,Male,Black or African-American,2-Year Degree (Associate's),150,Guns,1,2,5,2,6,5,2,2,5
+5,2,39,3,Female,Black or African-American,2-Year Degree (Associate's),151,Smoking,1,5,5,5,3,4,4,4,2
+5,2,39,3,Female,Black or African-American,2-Year Degree (Associate's),151,Guns,1,5,5,4,5,4,5,5,6
+3,2,19,3,Female,Black or African-American,High School/GED,152,Smoking,3,3,3,5,2,4,2,2,4
+3,2,19,3,Female,Black or African-American,High School/GED,152,Guns,1,6,5,4,2,3,5,6,4
+3,1,20,1,Male,White,High School/GED,153,Smoking,2,3,6,6,2,2,3,2,6
+3,1,20,1,Male,White,High School/GED,153,Guns,2,4,2,1,2,3,5,6,4
+3,1,34,2,Male,Hispanic,High School/GED,154,Smoking,1,5,4,6,5,5,2,4,1
+3,1,34,2,Male,Hispanic,High School/GED,154,Guns,5,3,2,1,2,6,4,2,5
+3,2,22,3,Female,Black or African-American,High School/GED,155,Smoking,1,4,5,6,3,4,3,2,1
+3,2,22,3,Female,Black or African-American,High School/GED,155,Guns,3,2,5,2,2,5,3,2,6
+3,2,20,1,Female,White,High School/GED,156,Smoking,2,1,5,4,6,5,1,1,1
+3,2,20,1,Female,White,High School/GED,156,Guns,1,4,2,1,5,6,4,2,5
+5,2,40,3,Female,Black or African-American,2-Year Degree (Associate's),157,Smoking,4,5,4,NA,4,2,4,2,5
+5,2,40,3,Female,Black or African-American,2-Year Degree (Associate's),157,Guns,3,3,5,3,4,4,4,4,5
+4,2,27,1,Female,White,Some College,158,Smoking,6,3,6,5,5,6,5,1,1
+4,2,27,1,Female,White,Some College,158,Guns,1,6,2,6,4,5,6,5,3
+3,2,52,1,Female,White,High School/GED,159,Smoking,2,6,6,4,2,2,6,4,5
+3,2,52,1,Female,White,High School/GED,159,Guns,1,6,5,5,6,5,6,5,6
+3,2,19,5,Female,Native American,High School/GED,160,Smoking,1,5,6,6,1,6,5,1,1
+3,2,19,5,Female,Native American,High School/GED,160,Guns,1,5,1,2,4,6,6,6,6
+3,1,20,1,Male,White,High School/GED,161,Smoking,5,3,5,6,2,4,3,4,2
+3,1,20,1,Male,White,High School/GED,161,Guns,1,5,5,4,3,4,5,5,5
+5,2,58,2,Female,Hispanic,2-Year Degree (Associate's),162,Smoking,4,4,5,4,5,2,4,3,2
+5,2,58,2,Female,Hispanic,2-Year Degree (Associate's),162,Guns,1,5,4,4,3,4,5,3,2
+3,2,20,4,Female,Asian,High School/GED,163,Smoking,3,3,6,3,1,4,2,2,1
+3,2,20,4,Female,Asian,High School/GED,163,Guns,3,5,1,2,2,6,4,5,4
+NA,2,16,1,Female,White,NA,164,Smoking,5,4,6,5,1,6,1,5,3
+NA,2,16,1,Female,White,NA,164,Guns,1,5,6,2,2,5,6,5,4
+2,2,29,6,Female,Pacific Islander,Some High School,165,Smoking,5,5,4,5,2,4,6,2,6
+2,2,29,6,Female,Pacific Islander,Some High School,165,Guns,3,5,5,6,6,6,4,2,4
+NA,1,16,3,Male,Black or African-American,NA,166,Smoking,1,2,4,6,1,4,1,2,1
+NA,1,16,3,Male,Black or African-American,NA,166,Guns,4,5,5,1,1,6,2,5,6
+5,2,38,1,Female,White,2-Year Degree (Associate's),167,Smoking,4,4,4,3,5,4,4,6,2
+5,2,38,1,Female,White,2-Year Degree (Associate's),167,Guns,2,5,5,4,3,5,2,3,2
+4,2,33,1,Female,White,Some College,168,Smoking,1,6,6,4,2,5,5,2,2
+4,2,33,1,Female,White,Some College,168,Guns,1,6,5,5,5,6,6,5,4
+3,2,51,1,Female,White,High School/GED,169,Smoking,5,2,6,6,2,5,1,4,5
+3,2,51,1,Female,White,High School/GED,169,Guns,1,5,2,3,2,5,2,4,3
+3,2,25,7,Female,Specified Another Race or Ethnicity,High School/GED,170,Smoking,2,2,6,5,1,4,2,1,2
+3,2,25,7,Female,Specified Another Race or Ethnicity,High School/GED,170,Guns,1,5,2,2,2,5,6,6,5
+3,2,18,1,Female,White,High School/GED,171,Smoking,4,2,3,6,3,5,4,3,5
+3,2,18,1,Female,White,High School/GED,171,Guns,2,5,4,1,4,3,6,5,6
+4,1,28,1,Male,White,Some College,172,Smoking,2,4,5,5,6,6,2,1,1
+4,1,28,1,Male,White,Some College,172,Guns,3,5,1,4,4,5,4,2,5
+1,2,22,5,Female,Native American,Less than High School,173,Smoking,2,1,5,5,2,2,4,2,5
+1,2,22,5,Female,Native American,Less than High School,173,Guns,2,6,2,4,5,5,5,6,5
+4,2,29,1,Female,White,Some College,174,Smoking,3,4,5,5,2,6,2,4,2
+4,2,29,1,Female,White,Some College,174,Guns,1,2,4,4,6,2,5,3,2
+3,1,22,1,Male,White,High School/GED,175,Smoking,3,6,4,4,1,3,6,2,3
+3,1,22,1,Male,White,High School/GED,175,Guns,2,3,1,1,1,5,4,6,5
+5,1,24,2,Male,Hispanic,2-Year Degree (Associate's),176,Smoking,2,5,6,6,2,5,1,1,4
+5,1,24,2,Male,Hispanic,2-Year Degree (Associate's),176,Guns,1,5,1,2,1,5,6,6,5
+3,2,30,1,Female,White,High School/GED,177,Smoking,3,4,5,5,4,3,2,1,1
+3,2,30,1,Female,White,High School/GED,177,Guns,3,6,2,2,2,6,6,5,6
+3,2,37,4,Female,Asian,High School/GED,178,Smoking,4,5,4,2,2,5,5,3,4
+3,2,37,4,Female,Asian,High School/GED,178,Guns,4,5,5,5,4,5,5,5,3
+4,2,25,2,Female,Hispanic,Some College,179,Smoking,3,4,6,2,2,2,3,2,3
+4,2,25,2,Female,Hispanic,Some College,179,Guns,4,5,3,4,3,4,6,6,4
+4,2,49,1,Female,White,Some College,180,Smoking,2,4,4,NA,4,5,2,2,1
+4,2,49,1,Female,White,Some College,180,Guns,2,NA,5,1,2,5,3,4,5
+5,2,23,3,Female,Black or African-American,2-Year Degree (Associate's),181,Smoking,1,2,6,6,1,5,2,2,1
+5,2,23,3,Female,Black or African-American,2-Year Degree (Associate's),181,Guns,1,5,2,2,2,5,5,6,5
+4,2,26,1,Female,White,Some College,182,Smoking,5,5,5,4,1,5,2,2,5
+4,2,26,1,Female,White,Some College,182,Guns,2,4,2,4,4,5,5,4,4
+NA,2,12,3,Female,Black or African-American,NA,183,Smoking,5,2,3,2,5,4,2,4,5
+NA,2,12,3,Female,Black or African-American,NA,183,Guns,3,4,2,3,3,2,4,3,3
+3,2,27,3,Female,Black or African-American,High School/GED,184,Smoking,3,5,5,3,1,2,3,4,2
+3,2,27,3,Female,Black or African-American,High School/GED,184,Guns,2,5,4,2,3,5,6,5,5
+3,1,20,3,Male,Black or African-American,High School/GED,185,Smoking,3,4,6,4,4,5,2,3,4
+3,1,20,3,Male,Black or African-American,High School/GED,185,Guns,1,5,5,5,2,5,5,5,6
+3,2,20,1,Female,White,High School/GED,186,Smoking,2,4,5,5,1,5,5,2,3
+3,2,20,1,Female,White,High School/GED,186,Guns,3,5,2,5,2,5,5,5,5
+3,2,23,1,Female,White,High School/GED,187,Smoking,3,4,6,5,5,6,4,4,6
+3,2,23,1,Female,White,High School/GED,187,Guns,5,6,2,5,4,5,5,5,4
+4,1,31,2,Male,Hispanic,Some College,188,Smoking,1,6,4,6,4,6,6,2,1
+4,1,31,2,Male,Hispanic,Some College,188,Guns,2,2,4,5,6,5,4,5,5
+5,1,26,2,Male,Hispanic,2-Year Degree (Associate's),189,Smoking,2,4,4,6,2,2,2,3,1
+5,1,26,2,Male,Hispanic,2-Year Degree (Associate's),189,Guns,4,2,6,2,2,2,2,2,6
+3,1,19,3,Male,Black or African-American,High School/GED,190,Smoking,3,6,6,5,3,4,6,3,6
+3,1,19,3,Male,Black or African-American,High School/GED,190,Guns,4,6,4,4,6,4,5,4,4
+1,2,17,1,Female,White,Less than High School,191,Smoking,1,6,6,5,1,6,5,1,3
+1,2,17,1,Female,White,Less than High School,191,Guns,4,6,1,6,1,6,6,5,6
+3,2,18,1,Female,White,High School/GED,192,Smoking,1,4,6,6,2,5,1,1,6
+3,2,18,1,Female,White,High School/GED,192,Guns,1,5,4,5,1,5,5,6,5
+5,1,74,2,Male,Hispanic,2-Year Degree (Associate's),193,Smoking,1,2,3,6,6,4,1,1,1
+5,1,74,2,Male,Hispanic,2-Year Degree (Associate's),193,Guns,4,5,1,1,2,6,1,1,6
+3,2,25,1,Female,White,High School/GED,194,Smoking,1,2,6,6,5,5,1,2,1
+3,2,25,1,Female,White,High School/GED,194,Guns,1,6,1,1,2,6,6,5,6
+3,1,18,1,Male,White,High School/GED,195,Smoking,3,2,2,4,2,5,2,2,4
+3,1,18,1,Male,White,High School/GED,195,Guns,2,5,2,2,2,5,5,5,4
+3,2,33,3,Female,Black or African-American,High School/GED,196,Smoking,6,4,6,4,6,4,2,3,6
+3,2,33,3,Female,Black or African-American,High School/GED,196,Guns,1,6,2,1,3,5,6,6,3
+3,2,32,1,Female,White,High School/GED,197,Smoking,2,2,6,6,1,4,4,1,1
+3,2,32,1,Female,White,High School/GED,197,Guns,5,5,4,2,1,5,6,6,5
+4,1,28,3,Male,Black or African-American,Some College,198,Smoking,6,2,5,6,4,5,5,4,2
+4,1,28,3,Male,Black or African-American,Some College,198,Guns,4,4,5,3,5,4,4,4,3
+3,2,33,1,Female,White,High School/GED,199,Smoking,1,4,5,2,1,5,2,2,4
+3,2,33,1,Female,White,High School/GED,199,Guns,2,5,5,5,2,5,1,5,5
+5,2,40,4,Female,Asian,2-Year Degree (Associate's),200,Smoking,3,NA,6,6,1,5,3,2,2
+5,2,40,4,Female,Asian,2-Year Degree (Associate's),200,Guns,1,4,2,4,2,4,4,5,5
+3,2,23,1,Female,White,High School/GED,201,Smoking,1,4,6,4,1,3,4,2,2
+3,2,23,1,Female,White,High School/GED,201,Guns,3,5,4,2,3,5,6,5,5
+2,2,32,3,Female,Black or African-American,Some High School,202,Smoking,4,6,3,6,3,1,6,4,3
+2,2,32,3,Female,Black or African-American,Some High School,202,Guns,3,2,6,NA,5,5,2,4,4
+3,2,31,1,Female,White,High School/GED,203,Smoking,2,1,6,6,1,5,4,1,5
+3,2,31,1,Female,White,High School/GED,203,Guns,1,6,4,5,1,6,6,6,6
+3,2,50,3,Female,Black or African-American,High School/GED,204,Smoking,2,1,6,6,1,5,2,1,2
+3,2,50,3,Female,Black or African-American,High School/GED,204,Guns,1,5,1,1,2,6,6,6,5
+3,1,29,5,Male,Native American,High School/GED,205,Smoking,2,2,1,3,6,1,2,5,5
+3,1,29,5,Male,Native American,High School/GED,205,Guns,6,2,6,1,3,3,2,5,6
+2,2,19,2,Female,Hispanic,Some High School,206,Smoking,2,1,2,5,3,3,4,5,1
+2,2,19,2,Female,Hispanic,Some High School,206,Guns,6,6,1,5,5,5,5,6,5
+4,1,24,2,Male,Hispanic,Some College,207,Smoking,4,4,5,2,5,5,2,5,4
+4,1,24,2,Male,Hispanic,Some College,207,Guns,2,4,5,6,5,4,4,2,4
+3,1,27,1,Male,White,High School/GED,208,Smoking,4,2,4,4,2,5,2,2,4
+3,1,27,1,Male,White,High School/GED,208,Guns,4,5,2,4,2,4,5,5,4
+1,1,19,1,Male,White,Less than High School,209,Smoking,2,2,5,6,3,3,2,4,2
+1,1,19,1,Male,White,Less than High School,209,Guns,2,6,4,2,2,4,5,6,5
+3,2,31,3,Female,Black or African-American,High School/GED,210,Smoking,2,5,5,6,4,3,3,1,1
+3,2,31,3,Female,Black or African-American,High School/GED,210,Guns,2,6,2,6,1,4,5,6,3
+3,2,30,4,Female,Asian,High School/GED,211,Smoking,4,3,2,4,4,4,3,4,6
+3,2,30,4,Female,Asian,High School/GED,211,Guns,2,3,6,1,5,3,2,3,3
+3,2,19,1,Female,White,High School/GED,212,Smoking,5,5,3,2,5,5,6,2,4
+3,2,19,1,Female,White,High School/GED,212,Guns,4,2,2,5,3,4,3,3,2
+3,2,38,3,Female,Black or African-American,High School/GED,213,Smoking,3,5,5,2,2,2,5,2,4
+3,2,38,3,Female,Black or African-American,High School/GED,213,Guns,2,4,6,5,5,2,5,5,2
+5,2,25,1,Female,White,2-Year Degree (Associate's),214,Smoking,5,3,6,4,2,6,1,5,6
+5,2,25,1,Female,White,2-Year Degree (Associate's),214,Guns,1,6,1,5,1,4,4,4,1
+1,2,16,1,Female,White,Less than High School,215,Smoking,2,3,2,6,2,5,2,3,2
+1,2,16,1,Female,White,Less than High School,215,Guns,3,4,2,1,3,5,2,5,5
+2,1,19,2,Male,Hispanic,Some High School,216,Smoking,1,1,5,6,2,4,1,3,4
+2,1,19,2,Male,Hispanic,Some High School,216,Guns,2,6,1,2,1,4,6,5,5
+2,2,19,2,Female,Hispanic,Some High School,217,Smoking,4,4,3,4,2,4,4,5,4
+2,2,19,2,Female,Hispanic,Some High School,217,Guns,3,5,6,4,4,6,4,5,5
+3,1,21,1,Male,White,High School/GED,218,Smoking,3,1,5,4,3,3,2,2,2
+3,1,21,1,Male,White,High School/GED,218,Guns,2,5,3,2,2,5,4,5,4
+3,2,19,4,Female,Asian,High School/GED,219,Smoking,5,4,3,6,5,4,4,2,2
+3,2,19,4,Female,Asian,High School/GED,219,Guns,2,4,6,1,5,6,1,1,1
+4,2,25,1,Female,White,Some College,220,Smoking,1,5,6,5,2,5,6,1,2
+4,2,25,1,Female,White,Some College,220,Guns,1,5,1,6,2,6,6,5,5
+3,1,23,1,Male,White,High School/GED,221,Smoking,2,5,6,6,1,5,4,1,1
+3,1,23,1,Male,White,High School/GED,221,Guns,1,6,2,2,1,5,6,6,6
+3,2,19,8,Female,Specified Another Race or Ethnicity,High School/GED,222,Smoking,1,3,6,4,3,5,2,3,1
+3,2,19,8,Female,Specified Another Race or Ethnicity,High School/GED,222,Guns,1,6,4,4,3,4,6,5,5
+3,1,25,1,Male,White,High School/GED,223,Smoking,1,1,6,6,4,6,1,1,1
+3,1,25,1,Male,White,High School/GED,223,Guns,1,6,2,1,1,6,6,6,5
+3,2,31,2,Female,Hispanic,High School/GED,224,Smoking,1,5,6,6,1,3,2,2,3
+3,2,31,2,Female,Hispanic,High School/GED,224,Guns,3,6,4,2,3,6,1,6,6
+1,1,31,1,Male,White,Less than High School,225,Smoking,2,1,5,6,4,6,5,5,5
+1,1,31,1,Male,White,Less than High School,225,Guns,1,6,1,2,5,5,6,6,5
+5,1,45,4,Male,Asian,2-Year Degree (Associate's),226,Smoking,2,4,6,6,1,4,3,2,1
+5,1,45,4,Male,Asian,2-Year Degree (Associate's),226,Guns,2,6,5,1,3,2,6,5,4
+3,1,21,1,Male,White,High School/GED,227,Smoking,2,3,6,5,2,4,4,1,4
+3,1,21,1,Male,White,High School/GED,227,Guns,1,6,2,4,3,6,5,5,4
+1,1,16,1,Male,White,Less than High School,228,Smoking,1,1,6,5,2,5,3,1,2
+1,1,16,1,Male,White,Less than High School,228,Guns,1,2,1,5,2,5,3,5,6
+3,1,19,1,Male,White,High School/GED,229,Smoking,1,5,2,6,4,5,2,2,2
+3,1,19,1,Male,White,High School/GED,229,Guns,2,1,3,4,2,5,2,2,3
+4,1,38,3,Male,Black or African-American,Some College,230,Smoking,1,4,5,5,2,NA,1,2,2
+4,1,38,3,Male,Black or African-American,Some College,230,Guns,2,6,4,1,2,4,5,6,6
+5,2,33,3,Female,Black or African-American,2-Year Degree (Associate's),231,Smoking,1,1,5,6,1,3,2,1,1
+5,2,33,3,Female,Black or African-American,2-Year Degree (Associate's),231,Guns,2,2,1,1,1,6,2,5,6
+3,2,27,1,Female,White,High School/GED,232,Smoking,2,4,6,6,6,6,4,2,4
+3,2,27,1,Female,White,High School/GED,232,Guns,1,4,2,2,1,4,4,5,5
+3,2,20,1,Female,White,High School/GED,233,Smoking,3,2,5,4,2,4,2,2,3
+3,2,20,1,Female,White,High School/GED,233,Guns,2,5,3,3,2,4,4,5,4
+4,2,30,1,Female,White,Some College,234,Smoking,5,4,6,6,4,5,4,1,4
+4,2,30,1,Female,White,Some College,234,Guns,1,5,5,2,4,6,5,5,3
+3,2,49,4,Female,Asian,High School/GED,235,Smoking,1,3,6,6,2,2,2,4,2
+3,2,49,4,Female,Asian,High School/GED,235,Guns,1,5,4,2,1,4,6,6,5
+2,1,20,1,Male,White,Some High School,236,Smoking,2,4,5,6,2,4,4,5,4
+2,1,20,1,Male,White,Some High School,236,Guns,4,5,6,6,5,5,5,6,5
+3,2,47,5,Female,Native American,High School/GED,237,Smoking,2,4,4,6,5,2,4,4,1
+3,2,47,5,Female,Native American,High School/GED,237,Guns,1,5,3,1,3,5,3,5,5
+3,2,51,1,Female,White,High School/GED,238,Smoking,2,6,6,4,1,5,4,1,5
+3,2,51,1,Female,White,High School/GED,238,Guns,1,4,2,3,4,6,5,5,5
+4,2,30,8,Female,Specified Another Race or Ethnicity,Some College,239,Smoking,1,1,6,6,1,3,1,1,1
+4,2,30,8,Female,Specified Another Race or Ethnicity,Some College,239,Guns,1,6,1,4,2,6,6,5,6
+5,2,19,1,Female,White,2-Year Degree (Associate's),240,Smoking,3,4,5,3,2,4,6,4,4
+5,2,19,1,Female,White,2-Year Degree (Associate's),240,Guns,2,5,5,5,4,4,6,6,5
+3,2,24,2,Female,Hispanic,High School/GED,241,Smoking,2,4,5,4,1,6,4,2,4
+3,2,24,2,Female,Hispanic,High School/GED,241,Guns,4,6,4,3,1,5,5,5,4
+4,1,34,1,Male,White,Some College,242,Smoking,1,1,2,5,5,5,1,2,2
+4,1,34,1,Male,White,Some College,242,Guns,4,3,4,1,5,6,2,1,3
+3,2,30,1,Female,White,High School/GED,243,Smoking,3,5,5,5,3,4,5,2,3
+3,2,30,1,Female,White,High School/GED,243,Guns,2,3,2,5,5,4,4,3,3
+3,1,26,4,Male,Asian,High School/GED,244,Smoking,3,3,5,5,1,4,4,4,4
+3,1,26,4,Male,Asian,High School/GED,244,Guns,4,5,5,2,4,4,6,6,4
+3,2,27,4,Female,Asian,High School/GED,245,Smoking,4,2,5,3,3,4,2,3,3
+3,2,27,4,Female,Asian,High School/GED,245,Guns,2,4,3,3,4,5,4,5,4
+3,2,19,1,Female,White,High School/GED,246,Smoking,2,4,6,6,2,6,4,2,2
+3,2,19,1,Female,White,High School/GED,246,Guns,4,5,3,3,3,6,2,5,5
+3,2,24,1,Female,White,High School/GED,247,Smoking,2,6,5,6,2,5,2,2,1
+3,2,24,1,Female,White,High School/GED,247,Guns,1,4,2,4,4,5,5,2,5
+1,1,24,3,Male,Black or African-American,Less than High School,248,Smoking,2,2,4,5,2,2,1,4,1
+1,1,24,3,Male,Black or African-American,Less than High School,248,Guns,5,3,4,1,3,4,4,4,6
+3,2,24,2,Female,Hispanic,High School/GED,249,Smoking,3,3,6,6,2,6,2,2,4
+3,2,24,2,Female,Hispanic,High School/GED,249,Guns,2,6,1,4,2,5,6,6,5
+3,2,50,3,Female,Black or African-American,High School/GED,250,Smoking,5,5,6,3,4,5,3,2,5
+3,2,50,3,Female,Black or African-American,High School/GED,250,Guns,2,2,1,5,4,5,5,5,3
+3,2,20,3,Female,Black or African-American,High School/GED,251,Smoking,2,3,5,6,5,5,3,2,2
+3,2,20,3,Female,Black or African-American,High School/GED,251,Guns,4,5,2,3,3,4,5,5,5
+3,2,49,1,Female,White,High School/GED,252,Smoking,1,1,6,4,1,5,2,1,3
+3,2,49,1,Female,White,High School/GED,252,Guns,2,5,4,2,2,5,6,6,6
+NA,2,16,2,Female,Hispanic,NA,253,Smoking,2,4,5,6,2,5,4,2,5
+NA,2,16,2,Female,Hispanic,NA,253,Guns,1,5,6,5,6,5,5,4,5
+3,2,30,2,Female,Hispanic,High School/GED,254,Smoking,2,4,5,4,1,4,4,1,4
+3,2,30,2,Female,Hispanic,High School/GED,254,Guns,1,5,4,2,3,5,5,6,6
+3,2,48,1,Female,White,High School/GED,255,Smoking,1,1,5,5,1,5,1,4,5
+3,2,48,1,Female,White,High School/GED,255,Guns,2,6,4,3,1,5,6,6,5
+3,2,25,1,Female,White,High School/GED,256,Smoking,1,6,6,4,1,4,2,4,5
+3,2,25,1,Female,White,High School/GED,256,Guns,1,6,3,3,2,2,5,6,5
+2,1,29,1,Male,White,Some High School,257,Smoking,3,4,4,6,1,4,2,2,6
+2,1,29,1,Male,White,Some High School,257,Guns,1,3,6,5,6,6,5,2,6
+4,2,20,1,Female,White,Some College,258,Smoking,1,4,5,6,1,5,4,2,1
+4,2,20,1,Female,White,Some College,258,Guns,1,6,4,6,3,6,6,5,6
+4,2,24,3,Female,Black or African-American,Some College,259,Smoking,1,4,6,4,5,2,4,4,4
+4,2,24,3,Female,Black or African-American,Some College,259,Guns,1,5,6,2,5,3,5,4,3
+1,2,22,1,Female,White,Less than High School,260,Smoking,1,6,4,3,1,4,6,2,6
+1,2,22,1,Female,White,Less than High School,260,Guns,3,4,1,1,2,5,2,3,1
+NA,2,16,3,Female,Black or African-American,NA,261,Smoking,2,3,5,5,5,5,4,2,4
+NA,2,16,3,Female,Black or African-American,NA,261,Guns,1,4,3,4,4,4,5,1,2
+2,2,54,3,Female,Black or African-American,Some High School,262,Smoking,1,4,5,5,2,3,3,5,4
+2,2,54,3,Female,Black or African-American,Some High School,262,Guns,2,4,6,2,3,2,4,5,5
+3,1,29,1,Male,White,High School/GED,263,Smoking,1,2,4,6,4,4,2,2,1
+3,1,29,1,Male,White,High School/GED,263,Guns,4,5,2,2,2,6,5,5,5
+5,2,32,2,Female,Hispanic,2-Year Degree (Associate's),264,Smoking,4,4,4,2,2,4,2,1,4
+5,2,32,2,Female,Hispanic,2-Year Degree (Associate's),264,Guns,2,2,6,1,2,5,1,5,4
+5,1,28,1,Male,White,2-Year Degree (Associate's),265,Smoking,2,4,5,4,3,5,4,2,2
+5,1,28,1,Male,White,2-Year Degree (Associate's),265,Guns,1,4,4,4,3,5,4,4,3
+3,2,21,4,Female,Asian,High School/GED,266,Smoking,4,1,6,4,5,5,2,2,4
+3,2,21,4,Female,Asian,High School/GED,266,Guns,3,5,4,5,2,5,4,5,5
+NA,2,17,1,Female,White,NA,267,Smoking,3,5,4,3,4,3,6,5,2
+NA,2,17,1,Female,White,NA,267,Guns,1,4,6,3,4,3,5,5,4
+3,2,41,2,Female,Hispanic,High School/GED,268,Smoking,6,4,5,2,2,1,2,5,6
+3,2,41,2,Female,Hispanic,High School/GED,268,Guns,2,4,5,5,4,5,2,6,1
+3,2,21,4,Female,Asian,High School/GED,269,Smoking,1,4,5,6,1,6,2,1,4
+3,2,21,4,Female,Asian,High School/GED,269,Guns,1,6,2,5,3,6,6,6,6
+2,2,23,1,Female,White,Some High School,270,Smoking,2,3,5,4,3,5,4,2,2
+2,2,23,1,Female,White,Some High School,270,Guns,3,5,2,5,3,5,5,5,3
+3,2,19,1,Female,White,High School/GED,271,Smoking,4,4,5,5,6,4,4,3,4
+3,2,19,1,Female,White,High School/GED,271,Guns,1,5,6,4,4,4,5,2,4
+3,2,57,1,Female,White,High School/GED,272,Smoking,2,1,6,5,3,4,2,1,2
+3,2,57,1,Female,White,High School/GED,272,Guns,6,6,1,2,1,5,5,6,4
+5,1,39,1,Male,White,2-Year Degree (Associate's),273,Smoking,5,5,2,6,5,2,6,5,1
+5,1,39,1,Male,White,2-Year Degree (Associate's),273,Guns,5,2,6,5,5,2,5,4,5
+3,2,52,1,Female,White,High School/GED,274,Smoking,1,2,6,6,5,6,1,1,1
+3,2,52,1,Female,White,High School/GED,274,Guns,2,3,1,2,1,6,5,6,6
+3,2,22,1,Female,White,High School/GED,275,Smoking,2,4,5,6,1,6,3,1,1
+3,2,22,1,Female,White,High School/GED,275,Guns,1,5,1,2,2,5,NA,6,5
+NA,1,16,1,Male,White,NA,276,Smoking,4,5,5,4,3,5,3,4,6
+NA,1,16,1,Male,White,NA,276,Guns,2,5,5,NA,2,5,5,5,4
+4,1,48,3,Male,Black or African-American,Some College,277,Smoking,1,5,2,6,1,6,1,1,1
+4,1,48,3,Male,Black or African-American,Some College,277,Guns,5,4,1,1,1,6,2,6,6
+4,2,45,3,Female,Black or African-American,Some College,278,Smoking,2,5,5,2,6,5,5,2,2
+4,2,45,3,Female,Black or African-American,Some College,278,Guns,1,6,1,5,6,5,5,5,5
+1,2,21,1,Female,White,Less than High School,279,Smoking,3,4,5,5,1,5,5,2,1
+1,2,21,1,Female,White,Less than High School,279,Guns,1,6,3,4,4,5,6,6,5
+5,1,25,4,Male,Asian,2-Year Degree (Associate's),280,Smoking,2,4,5,4,2,5,2,3,3
+5,1,25,4,Male,Asian,2-Year Degree (Associate's),280,Guns,2,6,2,2,2,5,6,5,5
+5,2,37,1,Female,White,2-Year Degree (Associate's),281,Smoking,1,2,6,6,2,1,4,1,1
+5,2,37,1,Female,White,2-Year Degree (Associate's),281,Guns,1,5,6,2,5,5,5,4,5
+2,2,51,3,Female,Black or African-American,Some High School,282,Smoking,1,6,4,4,1,6,6,1,1
+2,2,51,3,Female,Black or African-American,Some High School,282,Guns,1,6,1,6,6,5,6,1,5
+3,2,20,3,Female,Black or African-American,High School/GED,283,Smoking,NA,6,6,6,5,6,6,5,6
+3,2,20,3,Female,Black or African-American,High School/GED,283,Guns,5,5,1,6,6,3,6,3,6
+4,1,28,4,Male,Asian,Some College,284,Smoking,2,3,4,5,3,4,4,3,2
+4,1,28,4,Male,Asian,Some College,284,Guns,1,4,2,3,2,5,4,5,4
+3,2,23,1,Female,White,High School/GED,285,Smoking,2,3,6,5,2,4,2,1,1
+3,2,23,1,Female,White,High School/GED,285,Guns,2,4,2,2,1,5,5,6,5
+5,2,40,3,Female,Black or African-American,2-Year Degree (Associate's),286,Smoking,2,4,5,5,3,5,3,1,1
+5,2,40,3,Female,Black or African-American,2-Year Degree (Associate's),286,Guns,1,4,1,2,4,6,5,5,5
+3,2,44,2,Female,Hispanic,High School/GED,287,Smoking,1,5,5,6,1,3,5,4,4
+3,2,44,2,Female,Hispanic,High School/GED,287,Guns,5,5,5,1,5,4,5,6,5
+4,2,24,2,Female,Hispanic,Some College,288,Smoking,3,3,6,4,5,5,5,4,4
+4,2,24,2,Female,Hispanic,Some College,288,Guns,3,5,3,2,4,4,5,5,4
+3,2,25,1,Female,White,High School/GED,289,Smoking,4,5,4,4,2,3,6,3,2
+3,2,25,1,Female,White,High School/GED,289,Guns,3,5,4,4,4,5,4,6,4
+5,2,26,3,Female,Black or African-American,2-Year Degree (Associate's),290,Smoking,1,4,4,6,6,6,1,1,1
+5,2,26,3,Female,Black or African-American,2-Year Degree (Associate's),290,Guns,5,2,4,1,5,6,1,1,4
+5,2,38,1,Female,White,2-Year Degree (Associate's),291,Smoking,6,4,5,4,5,5,4,2,6
+5,2,38,1,Female,White,2-Year Degree (Associate's),291,Guns,4,4,6,5,6,5,4,4,4
+3,2,20,1,Female,White,High School/GED,292,Smoking,5,4,5,4,2,5,2,3,5
+3,2,20,1,Female,White,High School/GED,292,Guns,2,4,5,5,3,5,5,4,3
+3,2,41,3,Female,Black or African-American,High School/GED,293,Smoking,1,2,6,5,2,6,2,1,1
+3,2,41,3,Female,Black or African-American,High School/GED,293,Guns,1,6,1,1,1,6,6,6,4
+4,2,23,1,Female,White,Some College,294,Smoking,2,3,5,5,1,4,3,3,3
+4,2,23,1,Female,White,Some College,294,Guns,2,5,2,3,2,5,5,5,5
+4,2,28,1,Female,White,Some College,295,Smoking,4,3,4,3,4,4,3,3,3
+4,2,28,1,Female,White,Some College,295,Guns,3,4,3,1,4,4,4,5,3
+3,2,40,1,Female,White,High School/GED,296,Smoking,4,2,6,5,1,5,2,1,2
+3,2,40,1,Female,White,High School/GED,296,Guns,2,6,3,6,4,6,6,6,4
+5,2,34,3,Female,Black or African-American,2-Year Degree (Associate's),297,Smoking,2,4,6,4,2,3,2,2,2
+5,2,34,3,Female,Black or African-American,2-Year Degree (Associate's),297,Guns,1,5,2,2,1,3,4,5,5
+NA,2,46,1,Female,White,NA,298,Smoking,5,5,6,6,1,5,4,3,6
+NA,2,46,1,Female,White,NA,298,Guns,4,6,5,5,5,4,2,4,1
+1,2,18,3,Female,Black or African-American,Less than High School,299,Smoking,5,2,1,6,2,6,6,1,2
+1,2,18,3,Female,Black or African-American,Less than High School,299,Guns,1,5,2,6,4,6,1,5,6
+3,1,22,1,Male,White,High School/GED,300,Smoking,4,2,5,4,4,5,2,2,5
+3,1,22,1,Male,White,High School/GED,300,Guns,1,4,5,2,3,5,4,5,4
+4,2,20,1,Female,White,Some College,301,Smoking,4,4,3,3,6,5,4,3,5
+4,2,20,1,Female,White,Some College,301,Guns,3,4,5,6,4,5,4,3,4
+3,2,27,3,Female,Black or African-American,High School/GED,302,Smoking,3,4,4,4,3,5,3,2,5
+3,2,27,3,Female,Black or African-American,High School/GED,302,Guns,2,5,4,4,5,5,5,5,4
+4,2,26,3,Female,Black or African-American,Some College,303,Smoking,5,6,5,6,3,1,5,4,6
+4,2,26,3,Female,Black or African-American,Some College,303,Guns,4,5,6,6,6,4,4,6,3
+4,2,54,2,Female,Hispanic,Some College,304,Smoking,5,4,6,5,1,5,3,1,4
+4,2,54,2,Female,Hispanic,Some College,304,Guns,3,1,1,5,4,6,3,2,1
+3,2,22,2,Female,Hispanic,High School/GED,305,Smoking,3,5,5,4,2,4,5,4,4
+3,2,22,2,Female,Hispanic,High School/GED,305,Guns,2,5,4,3,4,4,4,5,4
+NA,2,47,3,Female,Black or African-American,NA,306,Smoking,4,5,5,3,2,5,5,2,6
+NA,2,47,3,Female,Black or African-American,NA,306,Guns,1,4,2,5,4,5,5,2,3
+2,1,22,3,Male,Black or African-American,Some High School,307,Smoking,1,3,5,6,4,2,5,3,3
+2,1,22,3,Male,Black or African-American,Some High School,307,Guns,2,5,3,2,6,5,5,4,6
+1,1,16,1,Male,White,Less than High School,308,Smoking,4,1,5,6,2,NA,5,4,1
+1,1,16,1,Male,White,Less than High School,308,Guns,3,6,5,1,4,5,4,6,5
+3,2,38,2,Female,Hispanic,High School/GED,309,Smoking,2,4,2,6,4,4,5,2,1
+3,2,38,2,Female,Hispanic,High School/GED,309,Guns,4,2,5,2,6,5,5,2,5
+3,2,17,3,Female,Black or African-American,High School/GED,310,Smoking,3,4,6,5,2,6,4,1,6
+3,2,17,3,Female,Black or African-American,High School/GED,310,Guns,2,5,5,2,1,6,5,5,3
+3,2,34,4,Female,Asian,High School/GED,311,Smoking,1,2,6,5,2,5,2,1,2
+3,2,34,4,Female,Asian,High School/GED,311,Guns,3,6,1,2,1,6,6,6,5
+3,1,20,3,Male,Black or African-American,High School/GED,312,Smoking,3,2,5,5,5,4,1,4,3
+3,1,20,3,Male,Black or African-American,High School/GED,312,Guns,2,5,4,1,2,4,6,5,5
+3,2,22,1,Female,White,High School/GED,313,Smoking,6,6,5,5,6,6,6,6,6
+3,2,22,1,Female,White,High School/GED,313,Guns,6,6,6,6,6,6,6,4,5
+1,2,19,2,Female,Hispanic,Less than High School,314,Smoking,2,2,5,NA,2,3,1,3,3
+1,2,19,2,Female,Hispanic,Less than High School,314,Guns,2,5,2,2,1,4,5,3,5
+5,1,39,1,Male,White,2-Year Degree (Associate's),315,Smoking,1,4,5,6,3,4,2,2,1
+5,1,39,1,Male,White,2-Year Degree (Associate's),315,Guns,2,3,4,1,3,6,4,5,5
+3,2,21,1,Female,White,High School/GED,316,Smoking,1,3,5,6,2,6,5,3,2
+3,2,21,1,Female,White,High School/GED,316,Guns,1,4,6,6,5,5,4,5,5
+5,2,36,2,Female,Hispanic,2-Year Degree (Associate's),317,Smoking,2,2,3,3,1,4,2,2,2
+5,2,36,2,Female,Hispanic,2-Year Degree (Associate's),317,Guns,2,6,2,2,4,5,4,4,5
+3,1,22,1,Male,White,High School/GED,318,Smoking,3,4,6,4,2,5,3,3,1
+3,1,22,1,Male,White,High School/GED,318,Guns,1,6,3,5,4,4,6,5,5
+3,2,25,3,Female,Black or African-American,High School/GED,319,Smoking,4,2,6,6,1,5,2,2,1
+3,2,25,3,Female,Black or African-American,High School/GED,319,Guns,2,5,2,3,2,5,5,6,5
+3,2,21,2,Female,Hispanic,High School/GED,320,Smoking,3,4,4,4,4,5,5,5,4
+3,2,21,2,Female,Hispanic,High School/GED,320,Guns,1,2,1,5,5,5,2,3,6
+3,2,19,1,Female,White,High School/GED,321,Smoking,3,4,5,6,1,5,4,3,2
+3,2,19,1,Female,White,High School/GED,321,Guns,4,6,3,1,NA,4,6,5,5
+3,1,20,3,Male,Black or African-American,High School/GED,322,Smoking,2,4,5,5,1,3,3,1,2
+3,1,20,3,Male,Black or African-American,High School/GED,322,Guns,2,3,4,2,4,4,2,5,4
+1,2,21,4,Female,Asian,Less than High School,323,Smoking,2,3,5,5,2,5,2,2,5
+1,2,21,4,Female,Asian,Less than High School,323,Guns,2,5,1,1,1,3,5,6,4
+NA,1,17,2,Male,Hispanic,NA,324,Smoking,4,4,4,5,2,2,3,4,5
+NA,1,17,2,Male,Hispanic,NA,324,Guns,2,5,3,4,3,4,5,4,3
+3,2,26,1,Female,White,High School/GED,325,Smoking,2,2,5,6,2,4,2,5,3
+3,2,26,1,Female,White,High School/GED,325,Guns,2,4,4,3,5,3,5,5,4
+3,2,20,2,Female,Hispanic,High School/GED,326,Smoking,3,6,5,5,4,3,6,4,2
+3,2,20,2,Female,Hispanic,High School/GED,326,Guns,3,5,1,2,2,5,5,4,5
+4,1,24,4,Male,Asian,Some College,327,Smoking,1,5,3,5,2,3,5,3,2
+4,1,24,4,Male,Asian,Some College,327,Guns,2,3,5,4,5,2,3,4,5
+4,2,34,3,Female,Black or African-American,Some College,328,Smoking,2,4,6,5,1,6,5,1,1
+4,2,34,3,Female,Black or African-American,Some College,328,Guns,3,6,3,2,4,5,6,6,6
+5,2,36,3,Female,Black or African-American,2-Year Degree (Associate's),329,Smoking,1,4,5,5,1,5,1,1,2
+5,2,36,3,Female,Black or African-American,2-Year Degree (Associate's),329,Guns,2,5,3,3,5,6,5,4,4
+5,2,22,1,Female,White,2-Year Degree (Associate's),330,Smoking,2,2,4,4,4,5,3,3,2
+5,2,22,1,Female,White,2-Year Degree (Associate's),330,Guns,1,3,4,5,4,5,2,3,4
+4,2,24,1,Female,White,Some College,331,Smoking,1,2,5,5,3,5,2,1,3
+4,2,24,1,Female,White,Some College,331,Guns,2,5,2,4,2,5,4,5,5
+3,2,19,3,Female,Black or African-American,High School/GED,332,Smoking,2,5,4,5,4,4,5,4,3
+3,2,19,3,Female,Black or African-American,High School/GED,332,Guns,1,2,6,4,5,4,4,1,5
+3,1,60,1,Male,White,High School/GED,333,Smoking,3,5,4,4,2,5,2,1,3
+3,1,60,1,Male,White,High School/GED,333,Guns,2,5,2,1,2,5,4,5,4
+NA,2,15,1,Female,White,NA,334,Smoking,3,4,6,6,4,5,4,5,1
+NA,2,15,1,Female,White,NA,334,Guns,1,6,6,4,6,3,5,6,6
+4,2,56,3,Female,Black or African-American,Some College,335,Smoking,2,1,5,6,4,4,1,1,1
+4,2,56,3,Female,Black or African-American,Some College,335,Guns,1,5,2,1,4,5,5,5,5
+5,2,42,1,Female,White,2-Year Degree (Associate's),336,Smoking,1,4,5,6,4,5,4,1,1
+5,2,42,1,Female,White,2-Year Degree (Associate's),336,Guns,2,3,4,2,4,5,5,3,5
+3,2,34,1,Female,White,High School/GED,337,Smoking,2,2,5,NA,2,5,3,3,5
+3,2,34,1,Female,White,High School/GED,337,Guns,2,4,2,3,2,5,5,2,5
+1,1,18,2,Male,Hispanic,Less than High School,338,Smoking,6,3,6,1,1,6,2,6,2
+1,1,18,2,Male,Hispanic,Less than High School,338,Guns,6,6,1,5,2,5,6,6,6
+3,1,26,1,Male,White,High School/GED,339,Smoking,2,2,4,5,4,5,1,2,4
+3,1,26,1,Male,White,High School/GED,339,Guns,2,4,2,1,3,5,5,5,5
+5,2,23,1,Female,White,2-Year Degree (Associate's),340,Smoking,5,4,4,3,2,5,4,1,5
+5,2,23,1,Female,White,2-Year Degree (Associate's),340,Guns,2,5,2,5,4,5,3,6,4
+5,2,25,1,Female,White,2-Year Degree (Associate's),341,Smoking,1,4,6,5,1,3,6,5,4
+5,2,25,1,Female,White,2-Year Degree (Associate's),341,Guns,2,6,6,4,4,3,5,6,6
+3,2,26,3,Female,Black or African-American,High School/GED,342,Smoking,4,2,6,6,1,5,3,1,3
+3,2,26,3,Female,Black or African-American,High School/GED,342,Guns,2,6,1,3,1,1,6,6,4
+3,2,19,1,Female,White,High School/GED,343,Smoking,3,4,5,3,1,5,3,3,3
+3,2,19,1,Female,White,High School/GED,343,Guns,4,4,6,4,1,4,4,6,4
+1,2,16,1,Female,White,Less than High School,344,Smoking,2,5,6,6,1,5,2,5,4
+1,2,16,1,Female,White,Less than High School,344,Guns,2,6,5,2,1,5,5,5,5
+5,2,52,2,Female,Hispanic,2-Year Degree (Associate's),345,Smoking,1,1,6,5,1,5,2,4,2
+5,2,52,2,Female,Hispanic,2-Year Degree (Associate's),345,Guns,1,5,2,2,NA,3,6,3,6
+2,2,22,2,Female,Hispanic,Some High School,346,Smoking,1,3,2,3,2,4,3,5,1
+2,2,22,2,Female,Hispanic,Some High School,346,Guns,3,2,5,3,3,2,1,2,4
+5,2,33,2,Female,Hispanic,2-Year Degree (Associate's),347,Smoking,1,4,6,5,2,5,2,2,1
+5,2,33,2,Female,Hispanic,2-Year Degree (Associate's),347,Guns,1,5,4,1,4,5,5,5,6
+3,2,20,1,Female,White,High School/GED,348,Smoking,1,6,6,4,2,5,5,1,3
+3,2,20,1,Female,White,High School/GED,348,Guns,2,5,4,6,NA,5,4,4,6
+3,2,25,3,Female,Black or African-American,High School/GED,349,Smoking,2,5,6,6,4,6,1,2,1
+3,2,25,3,Female,Black or African-American,High School/GED,349,Guns,1,4,2,1,2,5,4,4,6
+4,2,21,2,Female,Hispanic,Some College,350,Smoking,1,1,6,5,1,6,2,1,2
+4,2,21,2,Female,Hispanic,Some College,350,Guns,1,5,2,3,2,6,5,5,5
+3,1,18,3,Male,Black or African-American,High School/GED,351,Smoking,4,2,NA,3,5,3,1,3,1
+3,1,18,3,Male,Black or African-American,High School/GED,351,Guns,3,5,3,3,1,3,1,2,2
+4,2,39,3,Female,Black or African-American,Some College,352,Smoking,2,3,5,4,2,4,2,2,2
+4,2,39,3,Female,Black or African-American,Some College,352,Guns,2,5,4,1,4,5,5,5,3
+3,2,43,1,Female,White,High School/GED,353,Smoking,3,5,3,6,1,3,6,2,5
+3,2,43,1,Female,White,High School/GED,353,Guns,5,4,6,2,4,5,5,5,3
+3,1,25,1,Male,White,High School/GED,354,Smoking,2,3,5,4,2,5,5,3,2
+3,1,25,1,Male,White,High School/GED,354,Guns,1,5,3,5,2,5,4,2,6
+5,2,32,1,Female,White,2-Year Degree (Associate's),355,Smoking,1,2,5,4,5,5,2,5,1
+5,2,32,1,Female,White,2-Year Degree (Associate's),355,Guns,2,5,2,5,5,2,5,3,2
+4,1,44,3,Male,Black or African-American,Some College,356,Smoking,1,4,4,6,2,3,4,2,4
+4,1,44,3,Male,Black or African-American,Some College,356,Guns,1,4,4,5,4,5,4,4,4
+3,2,30,1,Female,White,High School/GED,357,Smoking,1,3,4,4,1,5,2,2,3
+3,2,30,1,Female,White,High School/GED,357,Guns,1,6,3,1,1,4,6,6,6
+2,1,20,1,Male,White,Some High School,358,Smoking,4,3,5,4,6,5,2,3,3
+2,1,20,1,Male,White,Some High School,358,Guns,3,4,4,2,3,4,NA,2,4
+NA,1,12,1,Male,White,NA,359,Smoking,2,5,2,5,1,5,2,6,6
+NA,1,12,1,Male,White,NA,359,Guns,5,2,6,2,1,3,1,6,5
+3,2,21,1,Female,White,High School/GED,360,Smoking,1,4,5,5,2,6,5,1,2
+3,2,21,1,Female,White,High School/GED,360,Guns,3,6,1,2,1,6,5,6,5
+4,1,48,1,Male,White,Some College,361,Smoking,4,2,3,6,3,3,4,3,2
+4,1,48,1,Male,White,Some College,361,Guns,3,5,5,2,3,4,3,5,4
+4,2,33,3,Female,Black or African-American,Some College,362,Smoking,3,4,4,5,2,4,2,1,1
+4,2,33,3,Female,Black or African-American,Some College,362,Guns,1,5,2,2,2,5,5,6,4
+4,2,45,1,Female,White,Some College,363,Smoking,1,3,6,5,2,4,3,1,2
+4,2,45,1,Female,White,Some College,363,Guns,1,6,5,1,1,6,6,6,6
+5,2,38,1,Female,White,2-Year Degree (Associate's),364,Smoking,4,3,4,4,5,4,4,3,2
+5,2,38,1,Female,White,2-Year Degree (Associate's),364,Guns,4,2,4,3,5,2,4,4,5
+3,1,26,2,Male,Hispanic,High School/GED,365,Smoking,4,6,4,4,4,5,4,4,6
+3,1,26,2,Male,Hispanic,High School/GED,365,Guns,4,1,2,3,4,5,4,5,3
+5,1,68,4,Male,Asian,2-Year Degree (Associate's),366,Smoking,2,2,5,6,2,2,2,4,1
+5,1,68,4,Male,Asian,2-Year Degree (Associate's),366,Guns,1,6,5,2,2,4,6,5,5
+2,1,22,1,Male,White,Some High School,367,Smoking,4,4,3,4,5,4,3,2,5
+2,1,22,1,Male,White,Some High School,367,Guns,4,3,3,2,4,4,4,4,4
+3,2,26,1,Female,White,High School/GED,368,Smoking,1,3,NA,6,5,5,2,1,1
+3,2,26,1,Female,White,High School/GED,368,Guns,5,5,2,1,4,6,5,3,3
+5,2,29,3,Female,Black or African-American,2-Year Degree (Associate's),369,Smoking,6,1,5,4,1,4,1,2,2
+5,2,29,3,Female,Black or African-American,2-Year Degree (Associate's),369,Guns,1,5,5,6,2,5,5,6,5
+3,2,23,3,Female,Black or African-American,High School/GED,370,Smoking,2,3,4,3,5,3,2,2,5
+3,2,23,3,Female,Black or African-American,High School/GED,370,Guns,2,4,2,2,4,6,4,3,5
+3,2,39,2,Female,Hispanic,High School/GED,371,Smoking,1,5,4,2,3,4,2,4,4
+3,2,39,2,Female,Hispanic,High School/GED,371,Guns,1,6,4,3,2,5,4,5,5
+4,2,23,1,Female,White,Some College,372,Smoking,4,4,6,5,5,6,5,1,6
+4,2,23,1,Female,White,Some College,372,Guns,1,4,1,5,4,6,5,4,2
+5,2,26,4,Female,Asian,2-Year Degree (Associate's),373,Smoking,1,6,6,6,4,6,4,2,1
+5,2,26,4,Female,Asian,2-Year Degree (Associate's),373,Guns,1,6,1,5,5,6,6,6,6
+5,2,38,1,Female,White,2-Year Degree (Associate's),374,Smoking,1,2,4,6,2,5,2,2,1
+5,2,38,1,Female,White,2-Year Degree (Associate's),374,Guns,1,6,2,2,2,4,6,6,6
+4,2,22,1,Female,White,Some College,375,Smoking,1,4,6,6,1,5,4,1,1
+4,2,22,1,Female,White,Some College,375,Guns,1,4,1,1,1,5,5,6,6
+4,2,20,4,Female,Asian,Some College,376,Smoking,2,4,6,5,2,4,4,3,1
+4,2,20,4,Female,Asian,Some College,376,Guns,2,4,4,4,4,4,5,4,5
+5,2,30,1,Female,White,2-Year Degree (Associate's),377,Smoking,5,5,4,6,2,5,5,4,5
+5,2,30,1,Female,White,2-Year Degree (Associate's),377,Guns,1,3,5,6,6,5,3,2,5
+2,1,47,1,Male,White,Some High School,378,Smoking,3,2,3,3,6,3,1,4,5
+2,1,47,1,Male,White,Some High School,378,Guns,2,5,5,1,2,5,5,2,2
+NA,2,18,1,Female,White,NA,379,Smoking,3,3,4,4,1,4,3,3,2
+NA,2,18,1,Female,White,NA,379,Guns,2,5,4,5,5,5,5,4,4
+3,1,19,1,Male,White,High School/GED,380,Smoking,4,2,2,6,5,5,2,1,2
+3,1,19,1,Male,White,High School/GED,380,Guns,4,4,1,3,2,3,4,5,3
+4,2,32,2,Female,Hispanic,Some College,381,Smoking,1,5,3,5,2,5,6,1,1
+4,2,32,2,Female,Hispanic,Some College,381,Guns,2,4,2,4,NA,6,4,5,6
+3,2,22,1,Female,White,High School/GED,382,Smoking,4,4,5,4,5,2,5,4,5
+3,2,22,1,Female,White,High School/GED,382,Guns,5,5,5,4,3,6,5,6,5
+4,2,25,1,Female,White,Some College,383,Smoking,1,4,6,5,2,5,4,2,3
+4,2,25,1,Female,White,Some College,383,Guns,1,4,4,3,4,6,5,3,6
+NA,2,14,1,Female,White,NA,384,Smoking,3,5,5,4,2,5,4,3,1
+NA,2,14,1,Female,White,NA,384,Guns,2,3,3,4,3,5,3,1,NA
+3,2,24,7,Female,Specified Another Race or Ethnicity,High School/GED,385,Smoking,3,3,6,4,4,5,4,3,1
+3,2,24,7,Female,Specified Another Race or Ethnicity,High School/GED,385,Guns,4,5,2,2,4,4,4,5,4
+1,1,17,7,Male,Specified Another Race or Ethnicity,Less than High School,386,Smoking,1,1,5,6,4,2,1,5,1
+1,1,17,7,Male,Specified Another Race or Ethnicity,Less than High School,386,Guns,6,5,6,1,5,6,2,4,5
+3,2,21,2,Female,Hispanic,High School/GED,387,Smoking,4,4,6,5,4,4,2,2,3
+3,2,21,2,Female,Hispanic,High School/GED,387,Guns,1,5,2,1,1,5,5,5,5
+2,2,23,1,Female,White,Some High School,388,Smoking,2,4,2,3,3,4,2,1,4
+2,2,23,1,Female,White,Some High School,388,Guns,4,5,2,1,1,5,4,5,1
+3,2,20,7,Female,Specified Another Race or Ethnicity,High School/GED,389,Smoking,5,6,5,5,3,5,5,3,3
+3,2,20,7,Female,Specified Another Race or Ethnicity,High School/GED,389,Guns,1,5,5,5,5,4,4,5,5
+NA,2,36,1,Female,White,NA,390,Smoking,2,4,5,2,2,5,2,1,2
+NA,2,36,1,Female,White,NA,390,Guns,2,4,5,1,5,5,4,4,5
+3,2,50,1,Female,White,High School/GED,391,Smoking,2,1,6,6,2,2,1,4,2
+3,2,50,1,Female,White,High School/GED,391,Guns,1,4,2,1,1,4,5,5,4
+NA,1,17,3,Male,Black or African-American,NA,392,Smoking,2,5,3,6,1,5,4,3,6
+NA,1,17,3,Male,Black or African-American,NA,392,Guns,4,3,5,5,5,5,6,6,6
+4,1,70,1,Male,White,Some College,393,Smoking,NA,3,4,4,2,5,2,2,2
+4,1,70,1,Male,White,Some College,393,Guns,2,6,2,1,3,5,5,3,4
+3,2,21,1,Female,White,High School/GED,394,Smoking,4,4,6,4,3,5,2,1,6
+3,2,21,1,Female,White,High School/GED,394,Guns,1,4,4,2,2,5,4,5,4
+2,1,43,6,Male,Pacific Islander,Some High School,395,Smoking,3,4,4,5,4,2,4,2,4
+2,1,43,6,Male,Pacific Islander,Some High School,395,Guns,2,5,2,2,4,4,NA,5,4
+2,1,34,2,Male,Hispanic,Some High School,396,Smoking,1,2,6,5,2,3,1,2,2
+2,1,34,2,Male,Hispanic,Some High School,396,Guns,1,6,4,2,3,4,6,6,6
+3,2,38,4,Female,Asian,High School/GED,397,Smoking,1,1,1,5,1,5,1,1,1
+3,2,38,4,Female,Asian,High School/GED,397,Guns,6,6,1,1,1,5,1,6,6
+5,1,25,5,Male,Native American,2-Year Degree (Associate's),398,Smoking,4,5,4,4,2,4,2,4,3
+5,1,25,5,Male,Native American,2-Year Degree (Associate's),398,Guns,2,5,4,3,3,4,3,4,4
+2,1,65,1,Male,White,Some High School,399,Smoking,5,5,4,6,1,4,4,2,4
+2,1,65,1,Male,White,Some High School,399,Guns,5,4,5,4,4,5,2,5,4
+3,1,29,3,Male,Black or African-American,High School/GED,400,Smoking,4,4,5,4,4,5,1,3,5
+3,1,29,3,Male,Black or African-American,High School/GED,400,Guns,5,5,4,2,2,5,4,6,4
+3,1,20,2,Male,Hispanic,High School/GED,401,Smoking,3,6,5,5,5,1,4,5,5
+3,1,20,2,Male,Hispanic,High School/GED,401,Guns,1,4,6,5,6,3,6,3,2
+4,1,22,4,Male,Asian,Some College,402,Smoking,5,1,6,5,1,4,2,2,1
+4,1,22,4,Male,Asian,Some College,402,Guns,3,5,2,4,1,4,5,6,5
+3,2,40,2,Female,Hispanic,High School/GED,403,Smoking,5,2,6,6,6,6,6,1,1
+3,2,40,2,Female,Hispanic,High School/GED,403,Guns,1,NA,2,4,1,6,6,6,2
+3,2,23,1,Female,White,High School/GED,404,Smoking,1,4,6,4,1,6,5,4,6
+3,2,23,1,Female,White,High School/GED,404,Guns,1,6,2,6,3,4,6,5,5
+3,2,27,1,Female,White,High School/GED,405,Smoking,2,6,6,4,4,6,6,1,4
+3,2,27,1,Female,White,High School/GED,405,Guns,1,4,2,6,4,6,5,1,2
+4,1,24,1,Male,White,Some College,406,Smoking,3,4,4,3,5,4,4,4,1
+4,1,24,1,Male,White,Some College,406,Guns,3,4,4,4,4,5,4,3,4
+1,2,22,1,Female,White,Less than High School,407,Smoking,3,4,5,5,3,4,2,4,1
+1,2,22,1,Female,White,Less than High School,407,Guns,3,5,4,1,2,4,4,6,3
+3,2,18,1,Female,White,High School/GED,408,Smoking,2,3,4,6,5,2,2,2,2
+3,2,18,1,Female,White,High School/GED,408,Guns,1,5,2,5,2,3,5,4,4
+3,2,31,1,Female,White,High School/GED,409,Smoking,2,4,5,4,1,2,4,3,3
+3,2,31,1,Female,White,High School/GED,409,Guns,1,5,2,2,2,5,5,6,4
+2,2,52,3,Female,Black or African-American,Some High School,410,Smoking,2,2,5,4,1,4,2,1,2
+2,2,52,3,Female,Black or African-American,Some High School,410,Guns,2,5,4,1,2,5,5,5,5
+4,2,56,4,Female,Asian,Some College,411,Smoking,2,4,5,4,3,5,1,2,2
+4,2,56,4,Female,Asian,Some College,411,Guns,2,5,4,4,3,4,5,5,3
+3,2,26,1,Female,White,High School/GED,412,Smoking,5,3,6,5,1,6,3,1,1
+3,2,26,1,Female,White,High School/GED,412,Guns,1,4,1,2,2,6,6,5,4
+4,2,28,2,Female,Hispanic,Some College,413,Smoking,5,1,4,2,5,4,1,3,4
+4,2,28,2,Female,Hispanic,Some College,413,Guns,1,4,5,1,1,2,2,4,2
+5,1,32,1,Male,White,2-Year Degree (Associate's),414,Smoking,4,2,5,5,NA,6,4,1,5
+5,1,32,1,Male,White,2-Year Degree (Associate's),414,Guns,4,5,4,1,5,5,6,5,5
+5,2,45,3,Female,Black or African-American,2-Year Degree (Associate's),415,Smoking,1,1,6,6,1,5,1,2,1
+5,2,45,3,Female,Black or African-American,2-Year Degree (Associate's),415,Guns,1,6,6,1,1,1,6,6,6
+3,2,38,3,Female,Black or African-American,High School/GED,416,Smoking,3,1,6,5,4,5,1,1,4
+3,2,38,3,Female,Black or African-American,High School/GED,416,Guns,1,6,1,3,4,5,6,5,4
+3,1,31,1,Male,White,High School/GED,417,Smoking,3,5,3,5,5,3,4,4,2
+3,1,31,1,Male,White,High School/GED,417,Guns,3,3,4,2,4,4,4,3,3
+NA,1,13,1,Male,White,NA,418,Smoking,4,2,5,4,5,4,4,4,2
+NA,1,13,1,Male,White,NA,418,Guns,2,3,4,3,5,2,4,NA,3
+4,2,30,1,Female,White,Some College,419,Smoking,1,2,6,5,1,5,2,1,6
+4,2,30,1,Female,White,Some College,419,Guns,1,6,3,2,4,6,1,5,4
+3,2,21,1,Female,White,High School/GED,420,Smoking,4,4,4,5,1,4,4,4,6
+3,2,21,1,Female,White,High School/GED,420,Guns,4,6,3,2,1,4,6,6,4
+5,2,31,1,Female,White,2-Year Degree (Associate's),421,Smoking,3,4,4,3,NA,4,3,3,4
+5,2,31,1,Female,White,2-Year Degree (Associate's),421,Guns,3,3,4,5,4,3,3,1,3
+3,2,21,4,Female,Asian,High School/GED,422,Smoking,2,3,6,5,5,4,2,2,3
+3,2,21,4,Female,Asian,High School/GED,422,Guns,1,5,4,3,2,5,5,5,5
+5,2,48,3,Female,Black or African-American,2-Year Degree (Associate's),423,Smoking,5,1,5,5,1,5,1,3,2
+5,2,48,3,Female,Black or African-American,2-Year Degree (Associate's),423,Guns,1,6,3,2,1,5,5,5,5
+5,1,26,2,Male,Hispanic,2-Year Degree (Associate's),424,Smoking,1,5,4,6,4,2,6,5,3
+5,1,26,2,Male,Hispanic,2-Year Degree (Associate's),424,Guns,4,3,6,5,4,3,3,2,4
+4,1,25,1,Male,White,Some College,425,Smoking,3,3,5,4,2,4,3,4,3
+4,1,25,1,Male,White,Some College,425,Guns,3,6,4,2,3,4,6,6,5
+3,2,21,3,Female,Black or African-American,High School/GED,426,Smoking,2,4,4,4,5,3,4,5,2
+3,2,21,3,Female,Black or African-American,High School/GED,426,Guns,2,5,5,5,5,4,5,3,4
+4,1,35,4,Male,Asian,Some College,427,Smoking,2,5,5,5,3,5,2,2,1
+4,1,35,4,Male,Asian,Some College,427,Guns,1,5,1,3,2,5,5,2,5
+3,1,25,3,Male,Black or African-American,High School/GED,428,Smoking,2,5,5,3,5,4,5,3,3
+3,1,25,3,Male,Black or African-American,High School/GED,428,Guns,2,4,3,5,4,4,4,4,4
+3,2,18,1,Female,White,High School/GED,429,Smoking,2,4,5,4,5,5,4,3,2
+3,2,18,1,Female,White,High School/GED,429,Guns,1,4,6,4,5,5,5,4,6
+NA,1,12,1,Male,White,NA,430,Smoking,4,3,2,4,2,5,4,4,2
+NA,1,12,1,Male,White,NA,430,Guns,1,1,3,1,5,5,3,4,4
+3,2,34,2,Female,Hispanic,High School/GED,431,Smoking,4,4,5,4,2,5,3,4,4
+3,2,34,2,Female,Hispanic,High School/GED,431,Guns,5,4,4,4,3,4,3,5,3
+NA,2,17,8,Female,Specified Another Race or Ethnicity,NA,432,Smoking,3,3,5,4,2,4,3,3,4
+NA,2,17,8,Female,Specified Another Race or Ethnicity,NA,432,Guns,2,5,4,2,3,4,5,5,4
+3,1,20,3,Male,Black or African-American,High School/GED,433,Smoking,2,4,6,6,3,6,4,4,2
+3,1,20,3,Male,Black or African-American,High School/GED,433,Guns,1,2,NA,4,1,1,5,3,4
+3,2,18,2,Female,Hispanic,High School/GED,434,Smoking,1,2,5,5,6,4,2,1,2
+3,2,18,2,Female,Hispanic,High School/GED,434,Guns,4,3,1,5,2,5,5,3,3
+NA,1,38,1,Male,White,NA,435,Smoking,1,5,4,6,6,4,4,4,2
+NA,1,38,1,Male,White,NA,435,Guns,1,6,5,4,6,3,6,6,5
+5,1,58,1,Male,White,2-Year Degree (Associate's),436,Smoking,1,2,5,6,2,4,2,2,2
+5,1,58,1,Male,White,2-Year Degree (Associate's),436,Guns,1,6,5,1,5,5,6,4,6
+2,1,30,2,Male,Hispanic,Some High School,437,Smoking,3,4,3,6,5,4,5,4,1
+2,1,30,2,Male,Hispanic,Some High School,437,Guns,4,3,5,3,5,4,2,4,6
+3,2,33,1,Female,White,High School/GED,438,Smoking,3,2,6,6,3,4,1,1,1
+3,2,33,1,Female,White,High School/GED,438,Guns,2,6,1,1,2,4,6,5,4
+5,2,27,1,Female,White,2-Year Degree (Associate's),439,Smoking,2,2,6,4,5,5,1,2,2
+5,2,27,1,Female,White,2-Year Degree (Associate's),439,Guns,1,6,4,1,1,5,6,2,4
+5,2,31,3,Female,Black or African-American,2-Year Degree (Associate's),440,Smoking,2,2,4,5,3,3,2,1,4
+5,2,31,3,Female,Black or African-American,2-Year Degree (Associate's),440,Guns,1,5,3,4,2,5,5,6,5
+3,1,26,3,Male,Black or African-American,High School/GED,441,Smoking,2,1,4,5,5,4,2,3,1
+3,1,26,3,Male,Black or African-American,High School/GED,441,Guns,1,6,1,1,2,5,6,4,5
+5,2,22,1,Female,White,2-Year Degree (Associate's),442,Smoking,2,4,6,6,6,5,6,4,4
+5,2,22,1,Female,White,2-Year Degree (Associate's),442,Guns,1,5,4,5,5,5,5,6,5
+3,2,32,3,Female,Black or African-American,High School/GED,443,Smoking,2,5,6,5,2,5,2,2,1
+3,2,32,3,Female,Black or African-American,High School/GED,443,Guns,2,6,4,1,2,5,6,6,5
+NA,2,17,3,Female,Black or African-American,NA,444,Smoking,6,6,1,3,6,4,6,5,6
+NA,2,17,3,Female,Black or African-American,NA,444,Guns,1,1,5,4,6,1,1,4,1
+5,2,40,1,Female,White,2-Year Degree (Associate's),445,Smoking,1,5,5,6,1,4,5,4,2
+5,2,40,1,Female,White,2-Year Degree (Associate's),445,Guns,2,3,5,2,4,4,5,3,5
+3,1,31,4,Male,Asian,High School/GED,446,Smoking,2,6,5,6,1,3,6,1,1
+3,1,31,4,Male,Asian,High School/GED,446,Guns,3,4,1,3,5,3,6,5,5
+2,2,31,3,Female,Black or African-American,Some High School,447,Smoking,5,6,6,4,1,3,5,5,2
+2,2,31,3,Female,Black or African-American,Some High School,447,Guns,1,5,4,5,2,2,5,6,4
+NA,1,17,1,Male,White,NA,448,Smoking,1,4,5,4,2,4,5,3,2
+NA,1,17,1,Male,White,NA,448,Guns,6,5,5,5,4,4,5,5,5
+4,2,25,1,Female,White,Some College,449,Smoking,3,5,6,6,1,6,1,1,2
+4,2,25,1,Female,White,Some College,449,Guns,2,5,1,1,1,6,5,6,6
+5,1,23,3,Male,Black or African-American,2-Year Degree (Associate's),450,Smoking,5,2,1,5,4,6,5,5,4
+5,1,23,3,Male,Black or African-American,2-Year Degree (Associate's),450,Guns,4,5,4,4,4,3,6,6,4
+3,2,25,1,Female,White,High School/GED,451,Smoking,1,4,4,6,4,3,2,2,2
+3,2,25,1,Female,White,High School/GED,451,Guns,2,3,2,1,1,6,2,2,4
+NA,1,55,1,Male,White,NA,452,Smoking,1,4,6,5,1,6,5,2,1
+NA,1,55,1,Male,White,NA,452,Guns,2,6,5,1,5,6,6,5,6
+5,1,33,4,Male,Asian,2-Year Degree (Associate's),453,Smoking,2,2,5,5,5,4,2,2,2
+5,1,33,4,Male,Asian,2-Year Degree (Associate's),453,Guns,5,2,4,2,4,5,2,4,5
+2,2,19,1,Female,White,Some High School,454,Smoking,3,5,3,4,1,5,5,5,3
+2,2,19,1,Female,White,Some High School,454,Guns,3,4,6,5,4,5,4,3,6
+1,2,18,1,Female,White,Less than High School,455,Smoking,3,5,4,4,1,5,3,3,4
+1,2,18,1,Female,White,Less than High School,455,Guns,2,4,4,6,4,3,2,5,4
+NA,1,16,3,Male,Black or African-American,NA,456,Smoking,2,5,5,6,1,3,6,1,1
+NA,1,16,3,Male,Black or African-American,NA,456,Guns,2,5,6,4,5,5,5,5,5
+3,2,27,7,Female,Specified Another Race or Ethnicity,High School/GED,457,Smoking,2,5,6,6,2,5,4,4,1
+3,2,27,7,Female,Specified Another Race or Ethnicity,High School/GED,457,Guns,1,4,5,5,2,5,6,4,5
+NA,1,41,1,Male,White,NA,458,Smoking,6,6,4,5,1,3,5,2,4
+NA,1,41,1,Male,White,NA,458,Guns,3,4,6,1,5,4,4,5,5
+5,1,28,1,Male,White,2-Year Degree (Associate's),459,Smoking,2,4,5,5,2,5,3,3,3
+5,1,28,1,Male,White,2-Year Degree (Associate's),459,Guns,2,6,6,1,3,5,5,6,6
+3,1,25,6,Male,Pacific Islander,High School/GED,460,Smoking,2,6,2,6,6,4,4,2,5
+3,1,25,6,Male,Pacific Islander,High School/GED,460,Guns,5,4,4,1,2,6,3,3,4
+3,2,36,1,Female,White,High School/GED,461,Smoking,1,2,1,5,2,5,1,1,2
+3,2,36,1,Female,White,High School/GED,461,Guns,1,5,2,1,1,6,6,5,5
+3,1,20,2,Male,Hispanic,High School/GED,462,Smoking,2,4,5,5,2,4,3,1,1
+3,1,20,2,Male,Hispanic,High School/GED,462,Guns,3,4,3,3,3,5,5,5,4
+3,2,35,3,Female,Black or African-American,High School/GED,463,Smoking,5,5,NA,4,1,NA,3,2,4
+3,2,35,3,Female,Black or African-American,High School/GED,463,Guns,1,6,6,1,NA,5,5,6,4
+5,1,28,8,Male,Specified Another Race or Ethnicity,2-Year Degree (Associate's),464,Smoking,2,2,5,5,2,5,4,1,3
+5,1,28,8,Male,Specified Another Race or Ethnicity,2-Year Degree (Associate's),464,Guns,3,5,2,2,2,5,5,5,4
+3,2,21,3,Female,Black or African-American,High School/GED,465,Smoking,4,3,4,5,6,5,4,1,4
+3,2,21,3,Female,Black or African-American,High School/GED,465,Guns,2,4,2,5,3,4,3,4,3
+3,2,31,1,Female,White,High School/GED,466,Smoking,4,4,5,4,3,4,3,3,4
+3,2,31,1,Female,White,High School/GED,466,Guns,3,4,3,3,3,4,5,5,4
+3,2,19,2,Female,Hispanic,High School/GED,467,Smoking,3,5,5,4,1,4,5,2,4
+3,2,19,2,Female,Hispanic,High School/GED,467,Guns,4,3,5,5,4,5,4,5,3
+3,2,18,1,Female,White,High School/GED,468,Smoking,4,3,5,3,6,6,4,2,2
+3,2,18,1,Female,White,High School/GED,468,Guns,2,2,5,4,4,6,3,2,2
+3,1,20,1,Male,White,High School/GED,469,Smoking,1,3,6,5,4,2,1,2,2
+3,1,20,1,Male,White,High School/GED,469,Guns,1,4,2,1,1,5,5,5,6
+5,2,39,3,Female,Black or African-American,2-Year Degree (Associate's),470,Smoking,1,4,6,6,1,2,4,1,1
+5,2,39,3,Female,Black or African-American,2-Year Degree (Associate's),470,Guns,1,6,2,5,4,5,2,6,6
+3,2,38,1,Female,White,High School/GED,471,Smoking,4,6,6,6,5,5,6,2,6
+3,2,38,1,Female,White,High School/GED,471,Guns,4,5,1,2,3,5,6,6,5
+1,2,35,2,Female,Hispanic,Less than High School,472,Smoking,4,6,4,3,2,5,6,5,4
+1,2,35,2,Female,Hispanic,Less than High School,472,Guns,3,4,4,5,4,4,6,3,5
+3,1,18,1,Male,White,High School/GED,473,Smoking,2,3,5,6,4,3,2,2,6
+3,1,18,1,Male,White,High School/GED,473,Guns,2,5,2,2,5,4,5,5,5
+5,2,35,2,Female,Hispanic,2-Year Degree (Associate's),474,Smoking,1,3,6,6,2,5,3,2,1
+5,2,35,2,Female,Hispanic,2-Year Degree (Associate's),474,Guns,1,4,4,2,3,5,5,2,6
+4,2,53,1,Female,White,Some College,475,Smoking,1,6,5,5,5,5,6,3,3
+4,2,53,1,Female,White,Some College,475,Guns,6,5,5,2,6,5,5,2,4
+3,2,22,1,Female,White,High School/GED,476,Smoking,4,4,6,3,4,5,6,4,6
+3,2,22,1,Female,White,High School/GED,476,Guns,3,4,3,4,5,5,6,4,1
+3,1,36,3,Male,Black or African-American,High School/GED,477,Smoking,4,1,6,5,5,4,3,1,1
+3,1,36,3,Male,Black or African-American,High School/GED,477,Guns,5,6,1,1,1,5,6,6,6
+1,1,19,1,Male,White,Less than High School,478,Smoking,3,2,4,4,3,5,3,4,3
+1,1,19,1,Male,White,Less than High School,478,Guns,4,4,4,3,3,5,4,3,3
+2,2,26,1,Female,White,Some High School,479,Smoking,2,4,5,5,1,5,2,2,3
+2,2,26,1,Female,White,Some High School,479,Guns,1,5,1,1,1,5,5,5,4
+NA,1,16,3,Male,Black or African-American,NA,480,Smoking,2,2,6,6,3,4,2,2,1
+NA,1,16,3,Male,Black or African-American,NA,480,Guns,5,5,3,2,2,5,6,6,3
+3,2,21,1,Female,White,High School/GED,481,Smoking,1,2,4,6,2,5,2,2,2
+3,2,21,1,Female,White,High School/GED,481,Guns,1,4,4,1,4,5,3,2,6
+2,1,48,4,Male,Asian,Some High School,482,Smoking,2,5,5,4,4,2,6,4,4
+2,1,48,4,Male,Asian,Some High School,482,Guns,2,4,5,5,6,2,5,3,5
+3,1,19,1,Male,White,High School/GED,483,Smoking,5,4,6,5,4,3,5,6,6
+3,1,19,1,Male,White,High School/GED,483,Guns,2,5,5,4,4,5,5,4,5
+5,2,31,2,Female,Hispanic,2-Year Degree (Associate's),484,Smoking,2,5,5,5,1,2,6,2,2
+5,2,31,2,Female,Hispanic,2-Year Degree (Associate's),484,Guns,2,5,3,4,3,4,5,5,5
+4,1,25,1,Male,White,Some College,485,Smoking,2,3,6,5,1,5,2,2,3
+4,1,25,1,Male,White,Some College,485,Guns,1,6,2,2,3,6,6,6,5
+3,1,36,2,Male,Hispanic,High School/GED,486,Smoking,2,4,4,3,4,3,4,1,5
+3,1,36,2,Male,Hispanic,High School/GED,486,Guns,3,5,1,1,1,5,5,5,5
+NA,1,17,1,Male,White,NA,487,Smoking,3,6,6,5,2,3,5,5,1
+NA,1,17,1,Male,White,NA,487,Guns,2,4,6,5,5,3,4,4,5
+2,1,20,4,Male,Asian,Some High School,488,Smoking,1,4,6,6,3,4,3,4,1
+2,1,20,4,Male,Asian,Some High School,488,Guns,2,4,6,2,5,5,6,5,4
+NA,1,17,1,Male,White,NA,489,Smoking,3,3,5,6,2,4,2,2,4
+NA,1,17,1,Male,White,NA,489,Guns,1,5,2,1,4,5,6,6,4
+3,2,46,1,Female,White,High School/GED,490,Smoking,2,6,6,2,5,6,6,1,4
+3,2,46,1,Female,White,High School/GED,490,Guns,6,6,3,1,3,6,6,5,5
+3,2,29,3,Female,Black or African-American,High School/GED,491,Smoking,1,6,6,4,4,2,3,1,1
+3,2,29,3,Female,Black or African-American,High School/GED,491,Guns,1,2,4,6,3,6,6,4,5
+3,2,43,3,Female,Black or African-American,High School/GED,492,Smoking,2,1,6,6,6,6,1,2,1
+3,2,43,3,Female,Black or African-American,High School/GED,492,Guns,1,6,4,4,2,5,6,5,4
+3,2,21,1,Female,White,High School/GED,493,Smoking,3,6,5,5,3,3,4,2,2
+3,2,21,1,Female,White,High School/GED,493,Guns,3,5,4,3,3,5,4,6,4
+4,2,23,1,Female,White,Some College,494,Smoking,2,4,6,5,2,6,1,2,3
+4,2,23,1,Female,White,Some College,494,Guns,1,6,2,3,1,5,5,5,4
+4,1,50,1,Male,White,Some College,495,Smoking,1,2,5,6,2,5,2,1,2
+4,1,50,1,Male,White,Some College,495,Guns,2,5,2,1,1,5,5,5,5
+4,2,32,1,Female,White,Some College,496,Smoking,3,6,4,4,2,4,2,2,3
+4,2,32,1,Female,White,Some College,496,Guns,3,5,4,3,2,6,5,6,2
+5,2,35,1,Female,White,2-Year Degree (Associate's),497,Smoking,1,4,5,6,4,4,6,2,2
+5,2,35,1,Female,White,2-Year Degree (Associate's),497,Guns,2,6,5,4,4,6,6,5,4
+NA,1,14,2,Male,Hispanic,NA,498,Smoking,1,4,4,4,6,4,1,4,3
+NA,1,14,2,Male,Hispanic,NA,498,Guns,3,4,2,1,1,5,4,3,3
+1,2,19,2,Female,Hispanic,Less than High School,499,Smoking,4,4,3,4,5,2,2,3,3
+1,2,19,2,Female,Hispanic,Less than High School,499,Guns,2,3,5,3,5,3,4,1,4
+3,2,18,1,Female,White,High School/GED,500,Smoking,1,4,6,6,2,6,4,1,4
+3,2,18,1,Female,White,High School/GED,500,Guns,1,6,2,5,2,6,6,6,5
+3,2,26,1,Female,White,High School/GED,501,Smoking,1,NA,5,5,2,5,4,1,1
+3,2,26,1,Female,White,High School/GED,501,Guns,2,NA,NA,1,2,5,5,5,5
+4,1,56,2,Male,Hispanic,Some College,502,Smoking,1,6,6,6,1,5,5,1,1
+4,1,56,2,Male,Hispanic,Some College,502,Guns,1,6,4,1,4,6,6,5,6
+3,1,23,2,Male,Hispanic,High School/GED,503,Smoking,3,3,5,4,6,5,2,5,2
+3,1,23,2,Male,Hispanic,High School/GED,503,Guns,2,4,5,2,4,5,5,1,2
+NA,2,14,2,Female,Hispanic,NA,504,Smoking,1,4,4,4,6,5,6,6,6
+NA,2,14,2,Female,Hispanic,NA,504,Guns,1,3,6,6,6,1,3,2,4
+4,2,32,4,Female,Asian,Some College,505,Smoking,3,4,4,5,1,6,3,2,3
+4,2,32,4,Female,Asian,Some College,505,Guns,1,6,3,3,1,NA,6,6,3
+2,2,23,2,Female,Hispanic,Some High School,506,Smoking,2,3,6,4,2,4,4,2,1
+2,2,23,2,Female,Hispanic,Some High School,506,Guns,1,5,5,2,2,4,4,5,5
+3,2,20,3,Female,Black or African-American,High School/GED,507,Smoking,2,4,6,5,3,2,4,3,1
+3,2,20,3,Female,Black or African-American,High School/GED,507,Guns,1,5,6,5,2,4,6,6,4
+1,1,21,6,Male,Pacific Islander,Less than High School,508,Smoking,3,3,4,5,1,5,4,3,3
+1,1,21,6,Male,Pacific Islander,Less than High School,508,Guns,4,5,2,3,2,4,5,5,5
+3,2,26,3,Female,Black or African-American,High School/GED,509,Smoking,2,4,6,4,1,3,1,1,1
+3,2,26,3,Female,Black or African-American,High School/GED,509,Guns,1,6,1,2,NA,1,6,6,6
+2,1,51,1,Male,White,Some High School,510,Smoking,5,4,6,6,4,5,4,3,4
+2,1,51,1,Male,White,Some High School,510,Guns,5,5,4,NA,4,1,5,5,5
+5,1,46,3,Male,Black or African-American,2-Year Degree (Associate's),511,Smoking,1,4,5,5,4,6,5,1,3
+5,1,46,3,Male,Black or African-American,2-Year Degree (Associate's),511,Guns,2,6,4,5,5,6,6,5,5
+4,2,20,5,Female,Native American,Some College,512,Smoking,4,5,5,4,2,3,5,2,2
+4,2,20,5,Female,Native American,Some College,512,Guns,4,3,4,2,6,4,4,2,5
+3,2,40,1,Female,White,High School/GED,513,Smoking,3,4,6,4,6,5,4,4,4
+3,2,40,1,Female,White,High School/GED,513,Guns,1,4,5,2,4,4,6,4,4
+3,2,23,1,Female,White,High School/GED,514,Smoking,2,4,2,4,2,4,6,4,1
+3,2,23,1,Female,White,High School/GED,514,Guns,5,3,3,1,2,2,4,5,5
+3,2,43,1,Female,White,High School/GED,515,Smoking,3,5,4,3,4,4,3,1,5
+3,2,43,1,Female,White,High School/GED,515,Guns,4,4,2,3,4,5,4,4,4
+NA,1,17,1,Male,White,NA,516,Smoking,3,1,6,6,1,3,2,4,3
+NA,1,17,1,Male,White,NA,516,Guns,2,5,6,1,1,2,5,6,4
+2,2,19,4,Female,Asian,Some High School,517,Smoking,2,1,2,5,3,6,4,1,1
+2,2,19,4,Female,Asian,Some High School,517,Guns,6,6,1,5,2,5,5,6,5
+4,2,24,1,Female,White,Some College,518,Smoking,2,4,5,4,2,6,5,2,2
+4,2,24,1,Female,White,Some College,518,Guns,1,4,4,4,3,5,5,4,4
+3,2,41,1,Female,White,High School/GED,519,Smoking,3,2,4,5,5,4,2,3,5
+3,2,41,1,Female,White,High School/GED,519,Guns,2,4,2,6,4,4,4,2,1
+4,1,46,1,Male,White,Some College,520,Smoking,1,2,4,6,5,6,1,1,1
+4,1,46,1,Male,White,Some College,520,Guns,2,4,5,1,1,5,2,2,5
+3,1,27,3,Male,Black or African-American,High School/GED,521,Smoking,1,1,5,6,1,5,3,3,1
+3,1,27,3,Male,Black or African-American,High School/GED,521,Guns,4,4,2,1,4,4,5,5,6
+3,2,41,3,Female,Black or African-American,High School/GED,522,Smoking,5,4,6,2,3,4,4,1,3
+3,2,41,3,Female,Black or African-American,High School/GED,522,Guns,1,6,2,4,4,2,6,6,NA
+2,1,30,1,Male,White,Some High School,523,Smoking,1,1,6,5,2,2,1,1,4
+2,1,30,1,Male,White,Some High School,523,Guns,1,6,5,1,4,5,6,5,5
+1,2,21,1,Female,White,Less than High School,524,Smoking,2,5,5,4,1,5,5,1,2
+1,2,21,1,Female,White,Less than High School,524,Guns,1,4,5,4,4,5,5,5,5
+3,1,24,1,Male,White,High School/GED,525,Smoking,2,4,5,5,6,5,6,2,2
+3,1,24,1,Male,White,High School/GED,525,Guns,1,5,5,5,6,5,4,1,5
+3,1,25,2,Male,Hispanic,High School/GED,526,Smoking,1,1,6,6,6,1,4,2,5
+3,1,25,2,Male,Hispanic,High School/GED,526,Guns,1,6,1,5,6,5,6,6,6
+NA,2,12,4,Female,Asian,NA,527,Smoking,2,6,5,6,2,6,6,2,3
+NA,2,12,4,Female,Asian,NA,527,Guns,4,4,1,4,5,5,1,6,6
+3,1,39,3,Male,Black or African-American,High School/GED,528,Smoking,1,1,6,6,1,6,3,1,1
+3,1,39,3,Male,Black or African-American,High School/GED,528,Guns,1,6,1,1,2,6,6,6,6
+3,1,26,3,Male,Black or African-American,High School/GED,529,Smoking,3,3,5,6,1,3,2,5,3
+3,1,26,3,Male,Black or African-American,High School/GED,529,Guns,6,6,1,3,2,6,6,6,6
+3,1,24,1,Male,White,High School/GED,530,Smoking,3,4,5,4,3,4,4,2,4
+3,1,24,1,Male,White,High School/GED,530,Guns,2,5,2,2,4,3,4,5,4
+NA,2,12,1,Female,White,NA,531,Smoking,4,5,5,4,6,5,4,5,5
+NA,2,12,1,Female,White,NA,531,Guns,2,2,5,5,6,4,3,1,2
+4,2,23,3,Female,Black or African-American,Some College,532,Smoking,1,1,6,6,2,6,1,4,2
+4,2,23,3,Female,Black or African-American,Some College,532,Guns,2,2,5,1,1,4,3,4,5
+3,2,21,4,Female,Asian,High School/GED,533,Smoking,2,1,6,5,1,4,3,3,6
+3,2,21,4,Female,Asian,High School/GED,533,Guns,6,6,6,6,1,6,5,NA,6
+5,2,44,4,Female,Asian,2-Year Degree (Associate's),534,Smoking,2,2,2,6,5,4,4,3,2
+5,2,44,4,Female,Asian,2-Year Degree (Associate's),534,Guns,2,4,5,2,4,5,5,5,6
+3,2,19,1,Female,White,High School/GED,535,Smoking,3,5,6,3,4,4,5,3,2
+3,2,19,1,Female,White,High School/GED,535,Guns,2,3,4,4,5,2,3,2,4
+3,1,18,2,Male,Hispanic,High School/GED,536,Smoking,4,3,6,6,3,2,2,2,4
+3,1,18,2,Male,Hispanic,High School/GED,536,Guns,5,6,4,3,4,5,6,5,5
+3,2,18,1,Female,White,High School/GED,537,Smoking,6,2,5,4,3,3,1,1,3
+3,2,18,1,Female,White,High School/GED,537,Guns,1,6,4,2,1,6,5,4,5
+3,2,20,1,Female,White,High School/GED,538,Smoking,4,2,6,5,2,5,4,2,6
+3,2,20,1,Female,White,High School/GED,538,Guns,1,6,2,4,3,5,6,6,5
+4,1,45,3,Male,Black or African-American,Some College,539,Smoking,3,4,5,4,4,4,2,4,2
+4,1,45,3,Male,Black or African-American,Some College,539,Guns,2,5,4,2,4,5,4,5,4
+3,1,23,2,Male,Hispanic,High School/GED,540,Smoking,4,4,1,2,6,4,3,3,5
+3,1,23,2,Male,Hispanic,High School/GED,540,Guns,2,4,5,4,4,2,1,1,1
+3,1,21,4,Male,Asian,High School/GED,541,Smoking,2,2,4,5,3,5,1,2,3
+3,1,21,4,Male,Asian,High School/GED,541,Guns,2,4,2,1,1,5,4,4,5
+2,2,18,1,Female,White,Some High School,542,Smoking,4,2,6,4,1,4,2,2,1
+2,2,18,1,Female,White,Some High School,542,Guns,2,6,2,2,1,4,6,6,5
+3,2,22,5,Female,Native American,High School/GED,543,Smoking,3,2,6,4,1,4,3,2,1
+3,2,22,5,Female,Native American,High School/GED,543,Guns,1,6,4,1,4,4,6,3,4
+4,1,22,1,Male,White,Some College,544,Smoking,6,6,2,6,4,6,6,6,5
+4,1,22,1,Male,White,Some College,544,Guns,5,5,6,6,6,6,6,5,6
+4,2,28,3,Female,Black or African-American,Some College,545,Smoking,3,4,4,2,6,5,4,5,3
+4,2,28,3,Female,Black or African-American,Some College,545,Guns,4,3,NA,3,6,4,2,1,1
+3,2,17,1,Female,White,High School/GED,546,Smoking,2,2,5,4,4,2,2,3,2
+3,2,17,1,Female,White,High School/GED,546,Guns,2,4,4,1,2,5,5,5,5
+3,2,20,5,Female,Native American,High School/GED,547,Smoking,4,4,5,5,1,4,4,2,4
+3,2,20,5,Female,Native American,High School/GED,547,Guns,1,4,2,6,4,4,5,6,4
+1,1,23,1,Male,White,Less than High School,548,Smoking,1,5,3,5,3,3,6,3,2
+1,1,23,1,Male,White,Less than High School,548,Guns,3,4,5,4,4,5,4,3,6
+NA,1,16,1,Male,White,NA,549,Smoking,1,2,6,5,6,5,1,1,2
+NA,1,16,1,Male,White,NA,549,Guns,2,2,1,4,5,4,4,4,1
+3,2,29,5,Female,Native American,High School/GED,550,Smoking,3,2,5,4,3,5,1,2,4
+3,2,29,5,Female,Native American,High School/GED,550,Guns,2,6,3,2,3,4,5,NA,5
+3,2,25,4,Female,Asian,High School/GED,551,Smoking,4,4,4,5,4,5,4,3,2
+3,2,25,4,Female,Asian,High School/GED,551,Guns,2,5,2,2,4,2,6,5,5
+5,1,32,4,Male,Asian,2-Year Degree (Associate's),552,Smoking,2,1,5,6,1,5,2,2,4
+5,1,32,4,Male,Asian,2-Year Degree (Associate's),552,Guns,2,5,1,1,1,6,5,6,5
+5,1,23,4,Male,Asian,2-Year Degree (Associate's),553,Smoking,1,1,4,5,2,5,5,3,1
+5,1,23,4,Male,Asian,2-Year Degree (Associate's),553,Guns,3,5,3,2,3,6,5,5,3
+2,1,42,2,Male,Hispanic,Some High School,554,Smoking,2,5,5,4,2,5,6,1,6
+2,1,42,2,Male,Hispanic,Some High School,554,Guns,2,2,2,6,2,5,6,2,4
+1,2,34,1,Female,White,Less than High School,555,Smoking,5,4,5,6,1,4,2,2,2
+1,2,34,1,Female,White,Less than High School,555,Guns,1,5,3,5,3,5,6,5,4
+3,2,37,3,Female,Black or African-American,High School/GED,556,Smoking,1,4,5,5,3,3,2,1,4
+3,2,37,3,Female,Black or African-American,High School/GED,556,Guns,1,4,4,2,3,5,3,5,4
+3,2,19,2,Female,Hispanic,High School/GED,557,Smoking,3,1,5,5,3,6,2,3,4
+3,2,19,2,Female,Hispanic,High School/GED,557,Guns,3,5,3,2,3,4,6,5,4
+2,1,32,2,Male,Hispanic,Some High School,558,Smoking,1,4,2,6,3,3,3,3,1
+2,1,32,2,Male,Hispanic,Some High School,558,Guns,2,4,4,2,4,5,2,3,5
+3,1,18,3,Male,Black or African-American,High School/GED,559,Smoking,2,5,6,5,2,5,3,3,2
+3,1,18,3,Male,Black or African-American,High School/GED,559,Guns,2,6,4,1,2,5,6,6,5
+3,2,19,1,Female,White,High School/GED,560,Smoking,2,2,4,2,2,4,4,2,6
+3,2,19,1,Female,White,High School/GED,560,Guns,1,5,4,4,2,4,4,6,NA
+5,2,38,1,Female,White,2-Year Degree (Associate's),561,Smoking,2,3,6,6,2,4,2,2,1
+5,2,38,1,Female,White,2-Year Degree (Associate's),561,Guns,2,5,1,1,2,5,6,4,5
+2,2,35,2,Female,Hispanic,Some High School,562,Smoking,1,4,6,6,1,3,4,5,2
+2,2,35,2,Female,Hispanic,Some High School,562,Guns,4,3,4,5,4,5,4,4,4
+1,2,17,6,Female,Pacific Islander,Less than High School,563,Smoking,2,4,5,5,3,5,6,2,4
+1,2,17,6,Female,Pacific Islander,Less than High School,563,Guns,2,4,4,4,2,5,5,5,6
+3,1,26,1,Male,White,High School/GED,564,Smoking,1,4,2,6,2,5,2,1,2
+3,1,26,1,Male,White,High School/GED,564,Guns,2,5,4,3,1,6,2,2,4
+1,1,16,2,Male,Hispanic,Less than High School,565,Smoking,6,6,5,NA,5,5,5,5,6
+1,1,16,2,Male,Hispanic,Less than High School,565,Guns,5,5,NA,5,4,5,5,5,5
+4,2,32,1,Female,White,Some College,566,Smoking,2,5,5,2,2,6,2,1,2
+4,2,32,1,Female,White,Some College,566,Guns,2,4,5,4,4,5,5,5,3
+3,2,23,2,Female,Hispanic,High School/GED,567,Smoking,3,4,5,5,4,5,5,4,4
+3,2,23,2,Female,Hispanic,High School/GED,567,Guns,5,5,3,4,5,5,5,5,5
+3,1,21,1,Male,White,High School/GED,568,Smoking,4,4,2,2,6,2,4,6,5
+3,1,21,1,Male,White,High School/GED,568,Guns,2,5,6,4,3,5,4,2,2
+4,1,21,1,Male,White,Some College,569,Smoking,1,5,5,5,2,2,5,2,4
+4,1,21,1,Male,White,Some College,569,Guns,1,5,6,2,4,1,4,2,4
+3,2,38,3,Female,Black or African-American,High School/GED,570,Smoking,2,1,6,6,1,5,1,1,1
+3,2,38,3,Female,Black or African-American,High School/GED,570,Guns,1,6,2,1,1,6,6,6,6
+3,2,19,2,Female,Hispanic,High School/GED,571,Smoking,2,5,3,6,2,5,3,3,1
+3,2,19,2,Female,Hispanic,High School/GED,571,Guns,5,4,4,3,4,5,4,4,5
+1,1,18,3,Male,Black or African-American,Less than High School,572,Smoking,2,3,4,6,5,2,4,5,2
+1,1,18,3,Male,Black or African-American,Less than High School,572,Guns,4,5,5,3,5,6,4,4,5
+1,2,16,3,Female,Black or African-American,Less than High School,573,Smoking,2,4,4,5,1,2,3,3,4
+1,2,16,3,Female,Black or African-American,Less than High School,573,Guns,3,6,3,5,2,3,6,6,6
+3,2,43,1,Female,White,High School/GED,574,Smoking,2,2,6,4,1,6,1,1,1
+3,2,43,1,Female,White,High School/GED,574,Guns,1,5,2,4,6,2,4,3,4
+NA,1,16,1,Male,White,NA,575,Smoking,5,5,6,6,5,6,3,1,1
+NA,1,16,1,Male,White,NA,575,Guns,5,2,2,5,3,5,3,5,6
+3,2,24,1,Female,White,High School/GED,576,Smoking,3,2,5,2,4,5,5,2,6
+3,2,24,1,Female,White,High School/GED,576,Guns,4,5,2,4,2,5,5,6,3
+5,2,23,1,Female,White,2-Year Degree (Associate's),577,Smoking,3,5,5,6,2,5,3,4,3
+5,2,23,1,Female,White,2-Year Degree (Associate's),577,Guns,2,6,6,4,3,5,5,6,3
+4,1,37,1,Male,White,Some College,578,Smoking,2,2,4,5,4,4,2,2,1
+4,1,37,1,Male,White,Some College,578,Guns,1,5,4,1,2,4,5,5,5
+3,2,22,1,Female,White,High School/GED,579,Smoking,2,4,6,6,2,3,4,3,1
+3,2,22,1,Female,White,High School/GED,579,Guns,1,6,4,1,3,6,6,5,6
+3,2,25,4,Female,Asian,High School/GED,580,Smoking,5,3,4,6,2,5,2,1,1
+3,2,25,4,Female,Asian,High School/GED,580,Guns,2,4,3,2,2,6,5,6,5
+3,2,39,2,Female,Hispanic,High School/GED,581,Smoking,2,3,5,3,3,4,2,2,2
+3,2,39,2,Female,Hispanic,High School/GED,581,Guns,2,5,3,3,NA,4,5,4,3
+3,1,21,4,Male,Asian,High School/GED,582,Smoking,2,2,4,3,5,6,1,3,4
+3,1,21,4,Male,Asian,High School/GED,582,Guns,5,3,5,1,2,4,2,3,4
+3,1,25,4,Male,Asian,High School/GED,583,Smoking,3,4,4,5,4,5,5,3,3
+3,1,25,4,Male,Asian,High School/GED,583,Guns,2,4,5,4,5,5,3,2,4
+1,1,19,1,Male,White,Less than High School,584,Smoking,4,3,3,3,3,3,2,3,4
+1,1,19,1,Male,White,Less than High School,584,Guns,3,3,4,3,3,3,4,4,3
+1,1,35,3,Male,Black or African-American,Less than High School,585,Smoking,1,5,5,5,2,5,4,1,2
+1,1,35,3,Male,Black or African-American,Less than High School,585,Guns,2,5,3,2,4,5,2,2,5
+3,2,30,2,Female,Hispanic,High School/GED,586,Smoking,4,4,5,3,3,4,5,2,2
+3,2,30,2,Female,Hispanic,High School/GED,586,Guns,3,4,2,5,3,4,1,4,4
+5,2,36,1,Female,White,2-Year Degree (Associate's),587,Smoking,2,4,4,4,4,4,2,2,3
+5,2,36,1,Female,White,2-Year Degree (Associate's),587,Guns,1,4,4,4,5,4,5,3,4
+3,1,18,1,Male,White,High School/GED,588,Smoking,3,2,3,4,4,4,2,3,4
+3,1,18,1,Male,White,High School/GED,588,Guns,3,4,4,3,4,3,3,3,4
+2,2,25,2,Female,Hispanic,Some High School,589,Smoking,4,6,6,6,3,6,4,3,6
+2,2,25,2,Female,Hispanic,Some High School,589,Guns,4,4,5,6,3,4,6,5,5
+3,2,20,1,Female,White,High School/GED,590,Smoking,3,3,6,6,1,5,1,1,4
+3,2,20,1,Female,White,High School/GED,590,Guns,1,6,1,1,2,5,6,6,5
+3,1,27,1,Male,White,High School/GED,591,Smoking,6,5,4,4,3,4,3,4,6
+3,1,27,1,Male,White,High School/GED,591,Guns,5,5,3,1,1,4,4,3,4
+3,2,23,1,Female,White,High School/GED,592,Smoking,4,3,4,4,3,3,3,4,4
+3,2,23,1,Female,White,High School/GED,592,Guns,4,5,3,4,3,5,4,6,4
+3,2,36,1,Female,White,High School/GED,593,Smoking,3,6,4,6,3,6,4,1,3
+3,2,36,1,Female,White,High School/GED,593,Guns,5,3,6,3,4,6,4,4,5
+NA,2,17,1,Female,White,NA,594,Smoking,6,5,4,4,3,5,4,5,2
+NA,2,17,1,Female,White,NA,594,Guns,2,5,6,5,5,5,5,4,NA
+3,2,18,4,Female,Asian,High School/GED,595,Smoking,2,4,5,5,3,4,4,3,3
+3,2,18,4,Female,Asian,High School/GED,595,Guns,2,5,5,4,3,5,4,3,3
+4,1,41,1,Male,White,Some College,596,Smoking,2,2,4,5,4,5,3,4,1
+4,1,41,1,Male,White,Some College,596,Guns,4,4,5,2,2,4,3,3,5
+1,2,15,4,Female,Asian,Less than High School,597,Smoking,1,4,5,5,2,1,4,1,2
+1,2,15,4,Female,Asian,Less than High School,597,Guns,1,4,4,1,1,1,5,5,4
+3,2,19,1,Female,White,High School/GED,598,Smoking,4,2,4,4,3,4,2,3,3
+3,2,19,1,Female,White,High School/GED,598,Guns,4,3,2,2,2,4,4,2,5
+4,2,51,1,Female,White,Some College,599,Smoking,4,1,6,4,2,6,1,1,2
+4,2,51,1,Female,White,Some College,599,Guns,2,5,1,2,1,4,5,5,3
+4,1,42,2,Male,Hispanic,Some College,600,Smoking,4,6,5,6,5,3,5,3,6
+4,1,42,2,Male,Hispanic,Some College,600,Guns,4,2,5,3,6,5,4,5,5
+5,1,23,4,Male,Asian,2-Year Degree (Associate's),601,Smoking,1,2,5,6,6,6,1,4,6
+5,1,23,4,Male,Asian,2-Year Degree (Associate's),601,Guns,1,4,6,6,3,1,6,1,5
+3,2,34,4,Female,Asian,High School/GED,602,Smoking,1,3,4,5,4,5,4,2,2
+3,2,34,4,Female,Asian,High School/GED,602,Guns,2,4,3,4,4,5,3,5,5
+NA,1,45,1,Male,White,NA,603,Smoking,1,4,5,6,4,6,4,1,1
+NA,1,45,1,Male,White,NA,603,Guns,2,4,4,1,4,1,6,4,5
+5,2,60,1,Female,White,2-Year Degree (Associate's),604,Smoking,1,5,5,6,1,4,5,2,2
+5,2,60,1,Female,White,2-Year Degree (Associate's),604,Guns,2,4,5,4,5,6,5,5,5
+2,2,30,4,Female,Asian,Some High School,605,Smoking,3,6,4,5,3,4,3,6,5
+2,2,30,4,Female,Asian,Some High School,605,Guns,2,4,6,5,6,2,4,2,4
+3,2,29,1,Female,White,High School/GED,606,Smoking,5,2,5,6,3,5,3,2,2
+3,2,29,1,Female,White,High School/GED,606,Guns,1,6,6,1,2,5,6,6,3
+2,1,43,2,Male,Hispanic,Some High School,607,Smoking,1,5,4,6,2,6,5,1,1
+2,1,43,2,Male,Hispanic,Some High School,607,Guns,5,4,1,5,4,6,4,5,5
+3,2,42,1,Female,White,High School/GED,608,Smoking,1,2,6,3,3,5,1,1,2
+3,2,42,1,Female,White,High School/GED,608,Guns,1,5,2,4,2,5,6,3,5
+3,2,34,1,Female,White,High School/GED,609,Smoking,3,5,6,4,4,6,5,2,4
+3,2,34,1,Female,White,High School/GED,609,Guns,1,5,1,1,3,5,4,6,4
+1,1,15,1,Male,White,Less than High School,610,Smoking,3,5,5,5,2,4,4,3,2
+1,1,15,1,Male,White,Less than High School,610,Guns,2,5,4,3,4,4,5,5,5
+3,1,22,2,Male,Hispanic,High School/GED,611,Smoking,2,4,5,5,2,4,4,5,2
+3,1,22,2,Male,Hispanic,High School/GED,611,Guns,2,2,6,2,4,2,5,2,4
+3,2,22,3,Female,Black or African-American,High School/GED,612,Smoking,4,4,4,6,1,6,4,5,2
+3,2,22,3,Female,Black or African-American,High School/GED,612,Guns,4,6,4,4,6,5,6,6,5
+NA,2,14,2,Female,Hispanic,NA,613,Smoking,5,6,6,6,2,5,6,2,2
+NA,2,14,2,Female,Hispanic,NA,613,Guns,3,4,5,5,5,2,3,5,4
+4,2,35,1,Female,White,Some College,614,Smoking,3,6,5,5,3,4,5,4,2
+4,2,35,1,Female,White,Some College,614,Guns,5,4,6,4,4,4,4,5,4
+1,1,29,4,Male,Asian,Less than High School,615,Smoking,4,3,5,5,6,6,3,2,3
+1,1,29,4,Male,Asian,Less than High School,615,Guns,4,6,1,1,2,3,5,5,1
+1,2,20,3,Female,Black or African-American,Less than High School,616,Smoking,3,4,4,4,4,3,4,4,4
+1,2,20,3,Female,Black or African-American,Less than High School,616,Guns,4,4,5,4,4,4,4,3,4
+4,2,21,1,Female,White,Some College,617,Smoking,6,2,2,2,6,5,2,1,1
+4,2,21,1,Female,White,Some College,617,Guns,5,4,1,2,5,5,2,2,4
+5,2,29,4,Female,Asian,2-Year Degree (Associate's),618,Smoking,3,3,4,3,5,4,4,2,2
+5,2,29,4,Female,Asian,2-Year Degree (Associate's),618,Guns,2,3,6,5,5,5,4,3,3
+3,1,20,4,Male,Asian,High School/GED,619,Smoking,1,2,5,6,2,6,2,3,2
+3,1,20,4,Male,Asian,High School/GED,619,Guns,3,6,4,1,1,5,5,5,6
+NA,1,15,1,Male,White,NA,620,Smoking,2,5,5,6,3,2,3,3,1
+NA,1,15,1,Male,White,NA,620,Guns,5,3,5,2,5,5,5,6,5
+3,2,49,2,Female,Hispanic,High School/GED,621,Smoking,2,5,4,5,2,5,5,2,4
+3,2,49,2,Female,Hispanic,High School/GED,621,Guns,2,4,2,5,3,5,5,5,4
+3,2,31,1,Female,White,High School/GED,622,Smoking,2,5,5,6,NA,4,5,4,2
+3,2,31,1,Female,White,High School/GED,622,Guns,1,6,5,6,4,4,1,6,5
+4,2,24,3,Female,Black or African-American,Some College,623,Smoking,3,3,4,4,2,4,2,2,3
+4,2,24,3,Female,Black or African-American,Some College,623,Guns,5,2,4,2,2,5,1,4,6
+3,2,20,1,Female,White,High School/GED,624,Smoking,3,5,3,6,2,5,3,2,3
+3,2,20,1,Female,White,High School/GED,624,Guns,5,4,2,4,2,4,2,5,5
+3,2,25,3,Female,Black or African-American,High School/GED,625,Smoking,4,4,6,5,2,4,5,1,2
+3,2,25,3,Female,Black or African-American,High School/GED,625,Guns,1,5,4,5,4,5,5,6,5
+4,2,31,1,Female,White,Some College,626,Smoking,1,4,6,6,1,4,3,3,1
+4,2,31,1,Female,White,Some College,626,Guns,6,5,1,2,1,2,1,1,6
+5,1,29,2,Male,Hispanic,2-Year Degree (Associate's),627,Smoking,1,5,6,6,5,5,5,1,2
+5,1,29,2,Male,Hispanic,2-Year Degree (Associate's),627,Guns,2,6,5,2,4,5,6,5,6
+4,1,39,2,Male,Hispanic,Some College,628,Smoking,3,1,6,5,2,4,1,2,2
+4,1,39,2,Male,Hispanic,Some College,628,Guns,1,6,2,1,1,5,6,6,4
+5,2,54,1,Female,White,2-Year Degree (Associate's),629,Smoking,2,4,6,4,3,4,4,2,2
+5,2,54,1,Female,White,2-Year Degree (Associate's),629,Guns,1,5,2,3,3,5,6,4,5
+NA,2,12,2,Female,Hispanic,NA,630,Smoking,3,3,3,1,1,4,3,5,3
+NA,2,12,2,Female,Hispanic,NA,630,Guns,4,3,2,1,1,2,1,6,2
+NA,1,12,1,Male,White,NA,631,Smoking,1,5,5,5,1,6,4,1,1
+NA,1,12,1,Male,White,NA,631,Guns,1,4,2,1,2,4,5,5,4
+NA,2,16,3,Female,Black or African-American,NA,632,Smoking,3,2,6,5,2,5,2,2,1
+NA,2,16,3,Female,Black or African-American,NA,632,Guns,2,5,1,3,2,5,6,5,6
+3,2,20,1,Female,White,High School/GED,633,Smoking,1,3,6,5,5,6,3,2,1
+3,2,20,1,Female,White,High School/GED,633,Guns,1,6,4,4,4,5,6,5,5
+3,2,18,1,Female,White,High School/GED,634,Smoking,1,4,4,6,2,5,6,1,1
+3,2,18,1,Female,White,High School/GED,634,Guns,2,5,4,1,5,6,3,5,5
+3,2,34,1,Female,White,High School/GED,635,Smoking,2,4,5,5,2,NA,6,2,2
+3,2,34,1,Female,White,High School/GED,635,Guns,2,5,3,3,4,3,5,4,4
+3,2,27,2,Female,Hispanic,High School/GED,636,Smoking,4,5,4,4,1,3,4,4,5
+3,2,27,2,Female,Hispanic,High School/GED,636,Guns,3,4,4,3,3,4,4,3,4
+3,1,20,1,Male,White,High School/GED,637,Smoking,4,2,5,3,2,5,1,2,3
+3,1,20,1,Male,White,High School/GED,637,Guns,2,5,2,2,2,4,4,6,4
+2,2,57,1,Female,White,Some High School,638,Smoking,2,1,4,5,3,4,1,1,2
+2,2,57,1,Female,White,Some High School,638,Guns,3,4,1,1,1,6,4,5,5
+NA,2,12,1,Female,White,NA,639,Smoking,3,3,3,5,3,5,5,3,5
+NA,2,12,1,Female,White,NA,639,Guns,5,2,3,4,3,6,4,6,6
+3,2,18,1,Female,White,High School/GED,640,Smoking,1,3,5,5,4,4,3,3,2
+3,2,18,1,Female,White,High School/GED,640,Guns,3,4,3,2,2,4,5,4,5
+3,2,20,1,Female,White,High School/GED,641,Smoking,2,4,5,5,3,2,2,2,3
+3,2,20,1,Female,White,High School/GED,641,Guns,2,5,4,2,2,5,5,6,3
+4,2,25,2,Female,Hispanic,Some College,642,Smoking,2,1,5,6,3,4,2,5,4
+4,2,25,2,Female,Hispanic,Some College,642,Guns,3,4,6,4,NA,2,3,3,5
+3,2,20,1,Female,White,High School/GED,643,Smoking,4,4,4,4,5,5,4,4,4
+3,2,20,1,Female,White,High School/GED,643,Guns,4,4,2,5,4,4,4,4,4
+3,1,31,2,Male,Hispanic,High School/GED,644,Smoking,4,4,4,2,3,2,5,4,2
+3,1,31,2,Male,Hispanic,High School/GED,644,Guns,5,2,2,2,5,5,4,4,2
+4,2,19,1,Female,White,Some College,645,Smoking,2,2,4,2,1,4,2,2,5
+4,2,19,1,Female,White,Some College,645,Guns,2,3,2,2,5,NA,4,5,2
+3,2,57,1,Female,White,High School/GED,646,Smoking,2,5,6,6,1,4,2,1,6
+3,2,57,1,Female,White,High School/GED,646,Guns,5,6,2,3,2,5,3,6,4
+3,2,49,2,Female,Hispanic,High School/GED,647,Smoking,2,2,4,5,2,NA,1,1,2
+3,2,49,2,Female,Hispanic,High School/GED,647,Guns,2,4,1,2,2,6,5,5,NA
+5,2,40,1,Female,White,2-Year Degree (Associate's),648,Smoking,1,5,3,5,5,4,2,2,1
+5,2,40,1,Female,White,2-Year Degree (Associate's),648,Guns,4,3,5,3,5,6,2,2,5
+4,2,19,4,Female,Asian,Some College,649,Smoking,1,2,1,5,5,5,6,6,1
+4,2,19,4,Female,Asian,Some College,649,Guns,2,4,3,2,2,6,4,3,5
+2,2,41,1,Female,White,Some High School,650,Smoking,5,5,5,4,1,5,5,3,5
+2,2,41,1,Female,White,Some High School,650,Guns,2,6,1,1,3,6,5,6,5

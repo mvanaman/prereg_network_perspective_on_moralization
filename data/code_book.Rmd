@@ -1,0 +1,116 @@
+---
+title: "Codebook"
+author: "*Prepared by:* Matthew E. Vanaman"
+date: '`r format(Sys.Date(), "%m-%d-%Y")`'
+monofont: Courier New
+output:
+  bookdown::html_document2:
+    toc: yes
+    toc_depth: 2
+    fig_caption: yes
+    number_sections: no
+    code_folding: hide
+geometry: margin = 0.75in
+indent: yes
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, comment = NA, warning = FALSE, message = FALSE)
+options(scipen = 999, papaja.comment = FALSE)
+packages <- c("tidyverse", "huxtable", "skimr", "psych")
+lapply(packages, library, character.only = TRUE)
+```
+
+
+```{r}
+# load spreadsheet
+code_book <- read_csv("code_book.csv")
+
+# get relevant items
+code_book %>%
+  select(-Hypothesized_Community, -Wording_for_Plot) %>% 
+  huxtable %>% 
+  theme_plain() %>% 
+  set_position("left") %>% 
+  set_all_padding(value = 0.5) %>% 
+  set_escape_contents(everywhere, value = FALSE) %>% 
+  set_col_width(col = 5, value = 0.25) %>% 
+  set_caption("Variable Codes")
+```
+
+```{r}
+fake_data <- bfi %>% select(contains("1") | contains("2"), gender:age) 
+# assign would-be names
+colnames(fake_data) <- c(
+  "Anger",
+  "AuthInd",
+  "BlackWhite",
+  "Disgust",
+  "Fluency",
+  "Suffer",
+  "ThinkAbout",
+  "Upset",
+  "Wrong",
+  "Policy",
+  colnames(select(fake_data, gender:age))
+  )
+# take a sample of the same size as my actual dataset
+set.seed(352)
+study_3_N <- 448
+study_4_N <- 350
+rows <- sample(x = 1:nrow(fake_data), size = study_3_N + study_4_N, replace = FALSE)
+fake_data <- fake_data %>% slice(rows)
+# simulate absent vars
+marital_tib <- tibble(marital = c("1 = Single/never married", "2 = Married", "3 = Separated", "4 = Divorced", "5 = Widowed")) %>% 
+  separate(col = marital, into = c("marital", "marital_label"), sep = " = ")
+marital <- sample(
+  x = as.numeric(marital_tib$marital), size = nrow(fake_data), replace = TRUE, prob = c(0.25, 0.45, 0.10, 0.15, 0.05)
+  )
+marital_label <- sample(
+  x = marital_tib$marital_label, size = nrow(fake_data), replace = TRUE, prob = c(0.25, 0.45, 0.10, 0.15, 0.05)
+  )
+race_tib <- tibble(race = c(
+  "1 = White, non - Hispanic",
+  "2 = White",
+  "3 = Hispanic",
+  "4 = African - American",
+  "5 = Asian",
+  "6 = Native American",
+  "7 = Pacific Islander",
+  "8 = Other"
+  )) %>%
+  separate(col = race, into = c("race", "race_label"), sep = " = ")
+race <- sample(
+  x = as.numeric(race_tib$race), size = nrow(fake_data), replace = TRUE, prob = c(0.40, 0.10, 0.20, 0.15, 0.10, 0.02, 0.02, 0.01)
+  )
+race_label <- sample(
+  x = race_tib$race_label, size = nrow(fake_data), replace = TRUE, prob = c(0.40, 0.10, 0.20, 0.15, 0.10, 0.02, 0.02, 0.01)
+  )
+social <- sample(x = 1:7, size = nrow(fake_data), replace = TRUE, prob = c(0.05, 0.1, 0.10, 0.3, 0.25, 0.1, 0.1))
+ecnomic <- sample(x = 1:7, size = nrow(fake_data), replace = TRUE, prob = c(0.1, 0.1, 0.15, 0.3, 0.15, 0.1, 0.1))
+political <- sample(x = 1:7, size = nrow(fake_data), replace = TRUE, prob = c(0.05, 0.1, 0.15, 0.3, 0.25, 0.1, 0.05))
+fake_data <- fake_data %>% 
+  mutate(
+    gender_label = recode(gender, "1" = "male", "2" = "female"),
+    education_label = recode(
+      education, 
+      "1" = "Less than high school", 
+      "2" = "some high school", 
+      "3" = "High School/GED", 
+      "4" = "some college", 
+      "5" = "2-Year Degree Associate's"
+      ),
+    marital = marital,
+    marital_label = marital_label,
+    race = race,
+    race_label = race_label,
+    social = social,
+    ecnomic = ecnomic,
+    political = political,
+    across(.cols = where(is.character), as.factor)
+  )
+
+# get descriptives table
+skim(fake_data)
+```
+

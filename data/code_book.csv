@@ -1,0 +1,35 @@
+Variable Name,Variable,Heuristic,Wording,Response_Options,Wording_for_Plot
+Subj,Subj,-,-,-,-
+ATT_Chk,-,-,-,1 = passed <br> 0 = failed,-
+Finished,Finished,-,-,1 = yes <br> 0 = no,-
+age,age,-,What is your age?,[free response],What is your age?
+education,education,-,What is the highest level of education you have completed?,1 = Less than High School <br>  2 = Some High School <br>  3 = High School/GED <br> 4 =  Some College <br> 5 = 2-Year Degree Associate's <br>  6 = 4-Year Degree Bachelor's <br>  7 = Some Graduate School <br> 8 =  Master's Degree/Professional Degree JD/MD <br> 10 =  Doctoral Degree,What is the highest level of education you have completed?
+gender,gender,-,Please specify your gender.,1 = Male <br> 2 = Female <br> 3 = Transgender <br> 4 = Non-binary <br> 5 = Other please specify <br> 6 = Choose not tanswer ,Please specify your gender.
+Gender,Gender,-,"Gender type-in, if selected 5 for gender (Other, please specify)",[free response],"Gender type-in, if selected 5 for gender (Other, please specify)"
+marital,marital,-,What is your current marital status?,1 = Single/never married <br> 2 = Married <br> 3 = Separated <br> 4 = Divorced <br> 5 = Widowed ,What is your current marital status?
+social,social,-,"In terms of social and cultural issues in particular, how liberal or conservative are you?",1 = Extremely Liberal <br> 4 = Moderate <br> 7 = Extremely Conservative,"In terms of social and cultural issues in particular, how liberal or conservative are you?"
+economic,economic,-,"In terms of economic issues in particular, how liberal or conservative are you?",1 = Extremely Liberal <br> 4 = Moderate <br> 7 = Extremely Conservative,"In terms of economic issues in particular, how liberal or conservative are you?"
+political,political,-,"Overall, on the following scale of political orientation where would you place yourself?",1 = Extremely Liberal <br> 4 = Moderate <br> 7 = Extremely Conservative,"Overall, on the following scale of political orientation where would you place yourself?"
+race,race,-,What is your race?,"1 = White, non-Hispanic <br> 2 = White <br> 3 =  Hispanic <br> 4 = African-American <br> 5 = Asian <br> 6 = Native American <br> 7 = Pacific Islander <br> 8 = Other <br> ",What is your race?
+vape_authind,AuthInd,Cognitions,"Even if the government/society says smoking cigarettes is okay, it is still wrong.",1 = Strongly Disagree <br>  7 = Strongly Agree,"Even if the government/society says [smoking cigarettes/gun ownership] is okay, it is still wrong."
+vape_blackwhite,BlackWhite,Cognitions,"It is not complicated, it is just wrong to smoke cigarettes. ",1 = Strongly Disagree <br>  7 = Strongly Agree,"It is not complicated, it is just wrong to [moke cigarettes/own a gun]. "
+vape_fluency,Fluency,Cognitions,It is easy for me to think of reasons why it is morally wrong to smoke cigarettes.,1 = Strongly Disagree <br>  7 = Strongly Agree,It is easy for me to think of reasons why it is morally wrong to [smoke cigarettes/own a gun].
+vape_moralwrong,Wrong,Cognitions,It is morally wrong to smoke cigarettes.,1 = Strongly Disagree <br>  7 = Strongly Agree,It is morally wrong to [smoke cigarettes/own a gun].
+vape_anger,Anger,Emotions,It makes me angry that people smoke cigarettes.,1 = Strongly Disagree <br>  7 = Strongly Agree,It makes me angry that people [smoke cigarettes/own guns].
+vape_disgust,Disgust,Emotions,People who smoke are disgusting.,1 = Strongly Disagree <br>  7 = Strongly Agree,People who [smoke/own guns] are disgusting.
+vape_upsetting,Upset,Emotions,Cigarette smoking is: [upsetting].,1 = Not at all <br>  4 = Moderaly <br>  7 = Highly,[Cigarette smoking/owning a gun] is upsetting.
+vape_suffer,Suffer,Cognitions,How much suffering is caused by cigarette smoking? (none - a great deal),1 = None <br>  7 = A great deal,How much suffering is caused by [cigarette smoking/gun owndership]? (none - a great deal)
+vape_favor,Policy,Outcome,I am in favor of vaping to reduce the harm of traditional cigarettes.,1 = Strongly Disagree <br>  7 = Strongly Agree,I am in favor of [vaping/gun safety training] to reduce the harm of [traditional cigarettes/gun violence].
+vapeCog,-,Cognitions,Compositve cognition score,-,
+vapeEmo,-,Emotions,Compositve emotion score,-,
+gun_authind,AuthInd,Cognitions,"Even if the government/society says  gun ownership is okay, it is still wrong.",1 = Strongly Disagree <br>  7 = Strongly Agree,
+gun_blackwhite,BlackWhite,Cognitions,"It is not complicated, it is just wrong to own a gun. ",1 = Strongly Disagree <br>  7 = Strongly Agree,
+gun_fluency,Fluency,Cognitions,It is easy for me to think of reasons why it is morally wrong to own guns.,1 = Strongly Disagree <br>  7 = Strongly Agree,
+gun_moralwrong,Wrong,Cognitions,It is morally wrong to own a gun.,1 = Strongly Disagree <br>  7 = Strongly Agree,
+gun_anger,Anger,Emotions,It makes me angry that people own guns.,1 = Strongly Disagree <br>  7 = Strongly Agree,
+gun_disgust,Disgust,Emotions,People who own guns are disgusting.,1 = Strongly Disagree <br>  7 = Strongly Agree,
+gun_upsetting,Upset,Emotions,Gun ownership is: [upsetting].,1 = Not at all <br>  4 = Moderaly <br>  7 = Highly,
+gun_suffer,Suffer,Cognitions,How much suffering is caused by gun ownership? (none - a great deal),1 = None <br>  7 = A great deal,
+gun_favor,Policy,Outcome,I am in favor of proper gun use training to reduce the harm caused by gun violence.,1 = Strongly Disagree <br>  7 = Strongly Agree,
+gunCog,-,Cognitions,Compositve cognition score,-,
+gunEmo,-,Emotions,Compositve emotion score,-,
